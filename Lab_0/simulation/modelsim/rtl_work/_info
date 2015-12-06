@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_0\simulation\modelsim
+Elight
+Z1 w1449141571
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dG:\Programe\FPGA\Lab_0\simulation\modelsim
+Z5 8G:/Programe/FPGA/Lab_0/light.vhd
+Z6 FG:/Programe/FPGA/Lab_0/light.vhd
+l0
+L4
+VbMbWQH5GTalVai1H;A=fm1
+!s100 ^]3DYU6bHmF>>dHA@gW:I3
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1449142093.942000
+Z9 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_0/light.vhd|
+Z10 !s107 G:/Programe/FPGA/Lab_0/light.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Alogicfunction
+R2
+R3
+DEx4 work 5 light 0 22 bMbWQH5GTalVai1H;A=fm1
+l12
+L10
+VMijUAn`>g?Tzfa_Uan@4Q0
+!s100 2>OI[@Q23SiN5BYhV=`Ui0
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12

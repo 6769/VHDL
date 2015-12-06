@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_1\simulation\qsim
+vNumberAnDisplay
+Z1 !s100 UDHogX9fQHz16a]UmA6Q:2
+Z2 Ie[WaL?]Y3^3eMOBKfO^]Z2
+Z3 V:Ml4f4Q6QB7_RAM[SFXX_2
+Z4 dG:\Programe\FPGA\Lab_1\simulation\qsim
+Z5 w1449320952
+Z6 8NumberAnDisplay.vo
+Z7 FNumberAnDisplay.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|NumberAnDisplay.vo|
+Z10 o-work work -O0
+Z11 n@number@an@display
+!i10b 1
+!s85 0
+Z12 !s108 1449320954.597000
+Z13 !s107 NumberAnDisplay.vo|
+!s101 -O0
+vNumberAnDisplay_vlg_check_tst
+!i10b 1
+Z14 !s100 beLjO38Q8G<EYF:f2iY`g2
+Z15 IooXe1ghJOiCId@]CTHR?12
+Z16 VF409g5HZFnGk0=EQONAZR3
+R4
+Z17 w1449320951
+Z18 8NumberAnDisplay.vt
+Z19 FNumberAnDisplay.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1449320955.047000
+Z21 !s107 NumberAnDisplay.vt|
+Z22 !s90 -work|work|NumberAnDisplay.vt|
+!s101 -O0
+R10
+Z23 n@number@an@display_vlg_check_tst
+vNumberAnDisplay_vlg_sample_tst
+!i10b 1
+Z24 !s100 CLOYk6fOz=<P=cW?OjM<n3
+Z25 IPA<jcIina^KN^i^QzI[mb2
+Z26 VTCS0@bKX7hY<:?K5hOHQg0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@number@an@display_vlg_sample_tst
+vNumberAnDisplay_vlg_vec_tst
+!i10b 1
+Z28 !s100 DUhGN_5oeCnROGY8MQzE61
+Z29 Il_kM^<hfG6O6Q;X1G??1n3
+Z30 VnamFaQP5W2e^@f5F:IRR;2
+R4
+R17
+R18
+R19
+Z31 L0 554
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@number@an@display_vlg_vec_tst
