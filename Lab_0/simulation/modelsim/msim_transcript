@@ -10,19 +10,23 @@
 # ** Warning: Copied H:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
 #          Updated modelsim.ini.
 # 
-# vcom -93 -work work {G:/Programe/FPGA/Lab_0/light.vhd}
+# vcom -93 -work work {G:/Programe/FPGA/Lab_0/FullAdder.vhd}
 # Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 # -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Compiling entity light
-# -- Compiling architecture LogicFunction of light
+# -- Compiling entity FullAdder
+# -- Compiling architecture Equation of FullAdder
+# vcom -93 -work work {G:/Programe/FPGA/Lab_0/Adder4.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Compiling entity Adder4
+# -- Compiling architecture Bcd4bit_fullAdder of Adder4
 # 
-# Load canceled
-vsim work.light
-# vsim work.light 
+vsim work.fulladder(equation)
+# vsim work.fulladder(equation) 
 # Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading work.light(logicfunction)
-run
+# Loading work.fulladder(equation)
+vsim work.adder4
+# vsim work.adder4 
+# Loading std.standard
+# Loading work.adder4(bcd4bit_fulladder)
+# Loading work.fulladder(equation)

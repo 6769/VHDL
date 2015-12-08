@@ -1,0 +1,100 @@
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_location_assignment PIN_AA23 -to adder1[0]
+set_location_assignment PIN_AB26 -to adder1[1]
+set_location_assignment PIN_AD25 -to adder1[7]
+set_location_assignment PIN_AC23 -to adder1[6]
+set_location_assignment PIN_AC24 -to adder1[5]
+set_location_assignment PIN_AC26 -to adder1[4]
+set_location_assignment PIN_AC27 -to adder1[3]
+set_location_assignment PIN_AB25 -to adder1[2]
+set_location_assignment PIN_L4 -to adder2[7]
+set_location_assignment PIN_L5 -to adder2[6]
+set_location_assignment PIN_T9 -to adder2[5]
+set_location_assignment PIN_U9 -to adder2[4]
+set_location_assignment PIN_V10 -to adder2[3]
+set_location_assignment PIN_W5 -to adder2[2]
+set_location_assignment PIN_AE27 -to adder2[1]
+set_location_assignment PIN_AD24 -to adder2[0]
+set_location_assignment PIN_AE8 -to sum[1]
+set_location_assignment PIN_AF9 -to sum[2]
+set_location_assignment PIN_AH9 -to sum[3]
+set_location_assignment PIN_AD10 -to sum[4]
+set_location_assignment PIN_AF10 -to sum[5]
+set_location_assignment PIN_AD11 -to sum[6]
+set_location_assignment PIN_AD12 -to sum[7]
+set_location_assignment PIN_AF12 -to sum[0]
+set_location_assignment PIN_AG13 -to sum[9]
+set_location_assignment PIN_AE16 -to sum[10]
+set_location_assignment PIN_AF16 -to sum[11]
+set_location_assignment PIN_AG16 -to sum[12]
+set_location_assignment PIN_AE17 -to sum[13]
+set_location_assignment PIN_AF17 -to sum[14]
+set_location_assignment PIN_AD17 -to sum[15]
+set_location_assignment PIN_AC17 -to sum[8]
+set_location_assignment PIN_AE7 -to sum[17]
+set_location_assignment PIN_AF7 -to sum[18]
+set_location_assignment PIN_AH5 -to sum[19]
+set_location_assignment PIN_AG4 -to sum[20]
+set_location_assignment PIN_AB18 -to sum[21]
+set_location_assignment PIN_AB19 -to sum[22]
+set_location_assignment PIN_AE19 -to sum[23]
+set_location_assignment PIN_AC19 -to sum[16]
+set_location_assignment PIN_P1 -to adder1_hex_display[1]
+set_location_assignment PIN_P2 -to adder1_hex_display[2]
+set_location_assignment PIN_P3 -to adder1_hex_display[3]
+set_location_assignment PIN_N2 -to adder1_hex_display[4]
+set_location_assignment PIN_N3 -to adder1_hex_display[5]
+set_location_assignment PIN_M1 -to adder1_hex_display[6]
+set_location_assignment PIN_M2 -to adder1_hex_display[7]
+set_location_assignment PIN_L6 -to adder1_hex_display[0]
+set_location_assignment PIN_M3 -to adder1_hex_display[9]
+set_location_assignment PIN_L1 -to adder1_hex_display[10]
+set_location_assignment PIN_L2 -to adder1_hex_display[11]
+set_location_assignment PIN_L3 -to adder1_hex_display[12]
+set_location_assignment PIN_K1 -to adder1_hex_display[13]
+set_location_assignment PIN_K4 -to adder1_hex_display[14]
+set_location_assignment PIN_K5 -to adder1_hex_display[15]
+set_location_assignment PIN_K6 -to adder1_hex_display[8]
+set_location_assignment PIN_H6 -to adder2_hex_display[1]
+set_location_assignment PIN_H4 -to adder2_hex_display[2]
+set_location_assignment PIN_H7 -to adder2_hex_display[3]
+set_location_assignment PIN_H8 -to adder2_hex_display[4]
+set_location_assignment PIN_G4 -to adder2_hex_display[5]
+set_location_assignment PIN_F4 -to adder2_hex_display[6]
+set_location_assignment PIN_E4 -to adder2_hex_display[7]
+set_location_assignment PIN_K2 -to adder2_hex_display[0]
+set_location_assignment PIN_K3 -to adder2_hex_display[9]
+set_location_assignment PIN_J1 -to adder2_hex_display[10]
+set_location_assignment PIN_J2 -to adder2_hex_display[11]
+set_location_assignment PIN_H1 -to adder2_hex_display[12]
+set_location_assignment PIN_H2 -to adder2_hex_display[13]
+set_location_assignment PIN_H3 -to adder2_hex_display[14]
+set_location_assignment PIN_G1 -to adder2_hex_display[15]
+set_location_assignment PIN_G2 -to adder2_hex_display[8]
+set_global_assignment -name FAMILY "Cyclone II"
+set_global_assignment -name DEVICE EP2C70F896C6
+set_global_assignment -name TOP_LEVEL_ENTITY Input_Display
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION "13.0 SP1"
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "22:08:22  DECEMBER 03, 2015"
+set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
+set_global_assignment -name VHDL_FILE FullAdder.vhd
+set_global_assignment -name VHDL_FILE Adder4.vhd
+set_global_assignment -name VHDL_FILE adjustAdder4.vhd
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_for_bcdAdder.vwf
+set_global_assignment -name SIMULATION_MODE FUNCTIONAL
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (Verilog)"
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda_simulation
+set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST ON -section_id eda_simulation
+set_global_assignment -name VHDL_FILE Bcd2digitAdder.vhd
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_for_BCD_Adder2digits.vwf
+set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_1_partB/Waveform_for_BCD_Adder2digits.vwf"
+set_global_assignment -name VHDL_FILE Segment7Decoder.vhd
+set_global_assignment -name VHDL_FILE Input_Display.vhd
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"

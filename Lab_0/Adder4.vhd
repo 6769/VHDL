@@ -32,5 +32,17 @@ begin
 --		cout<=z;	
 
 --	end process;
+	process( A)
+	begin
+  report "  9  mod   5  = " & integer'image(9 mod 5);
+  report "  9  rem   5  = " & integer'image(9 rem 5);
+  report "  9  mod (-5) = " & integer'image(9 mod (-5));
+  report "  9  rem (-5) = " & integer'image(9 rem (-5));
+  report "(-9) mod   5  = " & integer'image((-9) mod 5);
+  report "(-9) rem   5  = " & integer'image((-9) rem 5);
+  report "(-9) mod (-5) = " & integer'image((-9) mod (-5));
+  report "(-9) rem (-5) = " & integer'image((-9) rem (-5));
+  --wait for 0 us;
+end process;
 	S<=s_mid;
 end Bcd4bit_fullAdder;
