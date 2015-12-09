@@ -1,6 +1,7 @@
 --round shift register;
 entity rotate_shift_register is
     port(clk,reset: in bit;
+		--problem is that the predefined value seems didn't assigned
         hex0:buffer bit_vector(7 downto 0):="10000001";	--O
         hex1:buffer bit_vector(7 downto 0):="10001111";	--L
         hex2:buffer bit_vector(7 downto 0):="10001111";	--L

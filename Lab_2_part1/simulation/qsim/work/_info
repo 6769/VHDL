@@ -3,12 +3,12 @@ K3
 13
 cModel Technology
 Z0 dG:\Programe\FPGA\Lab_2_part1\simulation\qsim
-vNbitCounter
-Z1 !s100 8zOTCmN3?_8=NFaMlDUbh1
-Z2 I=60[P6SN@Ooah9RWC9^j10
-Z3 VdFECHocGXfWWB_gaei?9O0
+vCounter16anDisplay
+Z1 !s100 ^L=YGD;fko3NJ4J_hzjCl2
+Z2 Ik>L0zfQQZ;NEnZOod:kX00
+Z3 Vj7aDjoM54FDkJJ]=9a7Zk1
 Z4 dG:\Programe\FPGA\Lab_2_part1\simulation\qsim
-Z5 w1449553995
+Z5 w1449590813
 Z6 8counter.vo
 Z7 Fcounter.vo
 L0 31
@@ -17,69 +17,149 @@ r1
 31
 Z9 !s90 -work|work|counter.vo|
 Z10 o-work work -O0
-Z11 n@nbit@counter
+Z11 n@counter16an@display
+Z12 !s108 1449590814.973000
+Z13 !s107 counter.vo|
 !i10b 1
 !s85 0
-Z12 !s108 1449553997.094000
-Z13 !s107 counter.vo|
+!s101 -O0
+vCounter16anDisplay_vlg_check_tst
+Z14 Iz4Zl3aO=Y]lOVFk_DXTVh1
+Z15 V3OZ6GKHgMXn8^Ci<k2F9A2
+R4
+Z16 w1449590684
+Z17 8counter.vt
+Z18 Fcounter.vt
+L0 61
+R8
+r1
+31
+Z19 !s108 1449590687.501000
+Z20 !s107 counter.vt|
+Z21 !s90 -work|work|counter.vt|
+R10
+Z22 n@counter16an@display_vlg_check_tst
+Z23 !s100 =h6JkbY2P4hi[BbUgQ5eD3
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter16anDisplay_vlg_sample_tst
+Z24 IE_RMc:_TzjjOJjO[TTKoX1
+Z25 V^aEed`_W=`jS>Ydf36f3W0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+31
+R19
+R20
+R21
+R10
+Z26 n@counter16an@display_vlg_sample_tst
+Z27 !s100 1T5W_5_UjUzi0IMfN4NOO3
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter16anDisplay_vlg_vec_tst
+Z28 I0SmZRa24`L9LV@@HmJNX41
+Z29 Ve?i=g3Cf8RH6MhKiEbjeO3
+R4
+Z30 w1449590812
+R17
+R18
+L0 29
+R8
+r1
+31
+R21
+R10
+Z31 n@counter16an@display_vlg_vec_tst
+Z32 !s100 AKOFlVh]e7M<n?7QKi?2B1
+Z33 !s108 1449590815.453000
+R20
+!i10b 1
+!s85 0
+!s101 -O0
+vNbitCounter
+Z34 I0f4OU<;XZ?Zfl^dg;]IN^3
+Z35 VdFECHocGXfWWB_gaei?9O0
+R4
+Z36 w1449591154
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z37 n@nbit@counter
+!i10b 1
+Z38 !s100 ;YcLcY4R44kQ1NfdO=?PV3
+!s85 0
+Z39 !s108 1449591155.479000
+R13
 !s101 -O0
 vNbitCounter_vlg_check_tst
 !i10b 1
-!s100 oCkT:nkdZVlj_MJX6T[2V1
-IbiG5ZL`cV=A;_NV@<c31[2
-Z14 V7o=5hW__NKXG7bWAEl[d91
+Z40 !s100 NU87W7794JlB2d;an>AYC2
+Z41 I4]g3OH3[ECIL]04;2;k3M1
+Z42 V7o=5hW__NKXG7bWAEl[d91
 R4
-Z15 w1449553994
-Z16 8counter.vt
-Z17 Fcounter.vt
+Z43 w1449591153
+R17
+R18
 L0 61
 R8
 r1
 !s85 0
 31
-Z18 !s108 1449553997.254000
-Z19 !s107 counter.vt|
-Z20 !s90 -work|work|counter.vt|
+Z44 !s108 1449591155.899000
+Z45 !s107 counter.vt|
+R21
 !s101 -O0
 R10
-Z21 n@nbit@counter_vlg_check_tst
+Z46 n@nbit@counter_vlg_check_tst
 vNbitCounter_vlg_sample_tst
 !i10b 1
-Z22 !s100 OCFN@QolE@jFSdk;A>PRM1
-Z23 IU^nen9WkgTX=?U>SEf_T92
-Z24 VkQ7ojOYh]4d6maLE3?zfN2
+Z47 !s100 OCFN@QolE@jFSdk;A>PRM1
+Z48 IU^nen9WkgTX=?U>SEf_T92
+Z49 VkQ7ojOYh]4d6maLE3?zfN2
 R4
-R15
-R16
+R43
 R17
+R18
 L0 29
 R8
 r1
 !s85 0
 31
-R18
-R19
-R20
+R44
+R45
+R21
 !s101 -O0
 R10
-Z25 n@nbit@counter_vlg_sample_tst
+Z50 n@nbit@counter_vlg_sample_tst
 vNbitCounter_vlg_vec_tst
 !i10b 1
-!s100 ec<:3EFi[9l[J0c=oBf6?3
-I^S>lTobde?MEbJTkPhWX_3
-Z26 VJI=QzMD?F8:??IkzCY6nf2
+Z51 !s100 IPRP^JX1Wjn1XdEV8cHn@2
+Z52 ISeXX5i_lTQ5<FhzL85kM>1
+Z53 VJI=QzMD?F8:??IkzCY6nf2
 R4
-R15
-R16
+R43
 R17
-L0 441
+R18
+Z54 L0 425
 R8
 r1
 !s85 0
 31
-R18
-R19
-R20
+R44
+R45
+R21
 !s101 -O0
 R10
-Z27 n@nbit@counter_vlg_vec_tst
+Z55 n@nbit@counter_vlg_vec_tst

@@ -24,49 +24,13 @@
 # Loading cycloneii_ver.cycloneii_lcell_ff
 # Loading work.NbitCounter_vlg_sample_tst
 # Loading work.NbitCounter_vlg_check_tst
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from counter_v.sdo
 # Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
-# ERROR! Vector Mismatch for output port Q[2] :: @time = 1000000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001100100
-# ERROR! Vector Mismatch for output port Q[5] :: @time = 1000000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001100100
-# ERROR! Vector Mismatch for output port Q[6] :: @time = 1000000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001100100
-# ERROR! Vector Mismatch for output port Q[0] :: @time = 1010000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001100101
-# ERROR! Vector Mismatch for output port Q[1] :: @time = 1020000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001100110
-# ERROR! Vector Mismatch for output port Q[3] :: @time = 1040000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001101000
-# ERROR! Vector Mismatch for output port Q[4] :: @time = 1120000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000001110000
-# ERROR! Vector Mismatch for output port Q[7] :: @time = 1280000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000010000000
-# ERROR! Vector Mismatch for output port Q[8] :: @time = 2560000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000000100000000
-# ERROR! Vector Mismatch for output port Q[9] :: @time = 5120000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000001000000000
-# ERROR! Vector Mismatch for output port Q[10] :: @time = 10240000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000010000000000
-# ERROR! Vector Mismatch for output port Q[11] :: @time = 20480000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0000100000000000
-# ERROR! Vector Mismatch for output port Q[12] :: @time = 40960000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0001000000000000
-# ERROR! Vector Mismatch for output port Q[13] :: @time = 81920000.000 ps
-#      Expected value = 0000000000000000
-#      Real value = 0010000000000000
-#          14 mismatched vectors : Simulation failed !
-# ** Note: $finish    : counter.vt(437)
-#    Time: 100 us  Iteration: 0  Instance: /NbitCounter_vlg_vec_tst/tb_out
+# Loading timing data from counter_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /NbitCounter_vlg_vec_tst File: counter.vt
+# Simulation passed !
+# ** Note: $finish    : counter.vt(421)
+#    Time: 400 ns  Iteration: 0  Instance: /NbitCounter_vlg_vec_tst/tb_out

@@ -1,0 +1,36 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_2_part2\clock\simulation\modelsim
+Eclock_second
+Z1 w1449577693
+Z2 dG:\Programe\FPGA\Lab_2_part2\clock\simulation\modelsim
+Z3 8G:/Programe/FPGA/Lab_2_part2/clock/clock_second.vhd
+Z4 FG:/Programe/FPGA/Lab_2_part2/clock/clock_second.vhd
+l0
+L2
+VdToh_0Z:ol5oY5=Y4^lOA1
+!s100 k1kF]F;iIh2FJA=Dm8b^J2
+Z5 OV;C;10.1d;51
+31
+!i10b 1
+Z6 !s108 1449578169.527000
+Z7 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_2_part2/clock/clock_second.vhd|
+Z8 !s107 G:/Programe/FPGA/Lab_2_part2/clock/clock_second.vhd|
+Z9 o-93 -work work -O0
+Z10 tExplicit 1
+Adistribution
+DEx4 work 12 clock_second 0 22 dToh_0Z:ol5oY5=Y4^lOA1
+l10
+L7
+VeWn^<=FCMZ]dOW3eV@GEZ2
+!s100 _<F^?Qoe^9C<J80@OV7OD3
+R5
+31
+!i10b 1
+R6
+R7
+R8
+R9
+R10

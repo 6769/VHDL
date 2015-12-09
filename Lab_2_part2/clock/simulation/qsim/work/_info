@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_2_part2\clock\simulation\qsim
+vclock_second
+Z1 I`7I`cPJ<CD@J]Z<WIleT:0
+Z2 VPB>JT2<6g07M9@_Ol[_^d2
+Z3 dG:\Programe\FPGA\Lab_2_part2\clock\simulation\qsim
+Z4 w1449586010
+Z5 8clock.vo
+Z6 Fclock.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|clock.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 b;Mz78>EOcd[fnghM=TEX1
+!s85 0
+Z11 !s108 1449586012.052000
+Z12 !s107 clock.vo|
+!s101 -O0
+vclock_second_vlg_check_tst
+!i10b 1
+Z13 !s100 i_B3di9TfIUWfJ6b_oRHz1
+Z14 I;VbDb>lz_ni67cAbDTJFF2
+Z15 VQYVOGQkQ6?=ShHUg0=fP?1
+R3
+Z16 w1449586009
+Z17 8clock.vt
+Z18 Fclock.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z19 !s108 1449586012.432000
+Z20 !s107 clock.vt|
+Z21 !s90 -work|work|clock.vt|
+!s101 -O0
+R9
+vclock_second_vlg_sample_tst
+!i10b 1
+Z22 !s100 aZ_5gHiLkTTofDD?GgPWl0
+Z23 Ii8OFnAH^J?z:dGSk=;PlY1
+Z24 Vg9EXLVNZ@[XUoK?5S8;n60
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vclock_second_vlg_vec_tst
+!i10b 1
+!s100 N@Oc=^FJKkD`>h2;=YHY72
+IWCJEGnHQ[L?ECg_AzVORF0
+Z25 VXT_RlQWOX^O<i>8P8914F2
+R3
+R16
+R17
+R18
+Z26 L0 153
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcounter741
+Z27 !s100 h5Whn[i?dY?ze9kAC9SD11
+Z28 I7;jgE?K]zHe5G[>NDKobn1
+Z29 VY@eEO5Wz[eAUQ3k>odZeO0
+R3
+Z30 w1449585451
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z31 !s108 1449585453.718000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter741_vlg_check_tst
+Z32 IXeQ`0fCen3G>n?G?mF[@T1
+Z33 VTo`;dmg:m5mYjYLOf2ZiA1
+R3
+Z34 w1449585450
+R17
+R18
+L0 57
+R7
+r1
+31
+Z35 !s108 1449585454.208000
+Z36 !s107 clock.vt|
+R21
+R9
+Z37 !s100 eEOc:VUL<0SkFEfeQQWn32
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter741_vlg_sample_tst
+Z38 !s100 CcSeN[A`8OZ8AP`PSl8:=0
+Z39 IDI==1:feoSGTZ4=4RZ4Q42
+Z40 VO7`R`R7Rkb>P8<9ejQQm?1
+R3
+R34
+R17
+R18
+L0 29
+R7
+r1
+31
+R35
+R36
+R21
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter741_vlg_vec_tst
+Z41 InREC=bjXN6gOPjbZLNf>30
+Z42 VddN1N:U>V7WFYNL4[>6WX0
+R3
+R34
+R17
+R18
+Z43 L0 158
+R7
+r1
+31
+R35
+R36
+R21
+R9
+Z44 !s100 a>19;^Bgb;1ckcF;RzaMQ0
+!i10b 1
+!s85 0
+!s101 -O0
