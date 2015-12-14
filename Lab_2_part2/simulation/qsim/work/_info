@@ -3,12 +3,12 @@ K3
 13
 cModel Technology
 Z0 dG:\Programe\FPGA\Lab_2_part2\simulation\qsim
-vrotate_shift_register
-Z1 !s100 i^7iKD;=zgT]eNZ2W^c;Y2
-Z2 I[Wz=jZ?EmR7ElJTWLFSZI2
-Z3 VbdESaBU2XiSKX>8`m:>Sh0
+vcyclic_reg_with_clock
+Z1 !s100 Q`RHRR:U4TOdn3lmnU7`91
+Z2 IoYWea3OQRjUmY@lFRNldb3
+Z3 V:[WOFDTOn23n8KV51IF8i3
 Z4 dG:\Programe\FPGA\Lab_2_part2\simulation\qsim
-Z5 w1449571516
+Z5 w1449729205
 Z6 8rotate_shift_register.vo
 Z7 Frotate_shift_register.vo
 L0 31
@@ -19,16 +19,16 @@ Z9 !s90 -work|work|rotate_shift_register.vo|
 Z10 o-work work -O0
 !i10b 1
 !s85 0
-Z11 !s108 1449571517.450000
+Z11 !s108 1449729206.679000
 Z12 !s107 rotate_shift_register.vo|
 !s101 -O0
-vrotate_shift_register_vlg_check_tst
+vcyclic_reg_with_clock_vlg_check_tst
 !i10b 1
-Z13 !s100 c5KZKE::OY5C=T7HRHh=]0
-Z14 I6[[HabEWSVSN>=45W=46`1
-Z15 VN>Dd0V50O0IgOB1N`MZ^n2
+Z13 !s100 XnaZz^1BY<JNNj`UB^aao0
+Z14 IgcWj<C7;Ebc@BF=Wk`=nA3
+Z15 VIE^`?=8EmK]okiB@^g:S12
 R4
-Z16 w1449571515
+Z16 w1449729204
 Z17 8rotate_shift_register.vt
 Z18 Frotate_shift_register.vt
 L0 59
@@ -36,16 +36,16 @@ R8
 r1
 !s85 0
 31
-Z19 !s108 1449571517.720000
+Z19 !s108 1449729207.196000
 Z20 !s107 rotate_shift_register.vt|
 Z21 !s90 -work|work|rotate_shift_register.vt|
 !s101 -O0
 R10
-vrotate_shift_register_vlg_sample_tst
+vcyclic_reg_with_clock_vlg_sample_tst
 !i10b 1
-Z22 !s100 _QkoKSQn1o5;Z0Cf`S8=T1
-Z23 IddF6F0<Q^cIcB2EGLIVP32
-Z24 VJOK:M;;1U?^_C`PcSnMZ<3
+Z22 !s100 oMCThQ4Ek7InCL[oh@=l31
+Z23 I4cdTWH8Hg@>>7A1m<a9hS1
+Z24 VRVQK@>g=_za^KG4H8Ak=d1
 R4
 R16
 R17
@@ -60,11 +60,11 @@ R20
 R21
 !s101 -O0
 R10
-vrotate_shift_register_vlg_vec_tst
+vcyclic_reg_with_clock_vlg_vec_tst
 !i10b 1
-!s100 nfDPQg?fDJa9Zcdd6;A[d1
-I;cX>6fi:3e_]Q>f;VO6`>1
-Z25 V;f<c3ZW5ZV3WN9j]f960z3
+!s100 <;YO>oU=l1^X;^JMPmT?C0
+IkRUCj7^_hlYeZZ7EHX]U^2
+Z25 VN@gLTWa5a7ee49AoF8YgV1
 R4
 R16
 R17
@@ -79,3 +79,79 @@ R20
 R21
 !s101 -O0
 R10
+vrotate_shift_register
+Z27 !s100 ;ST_fHVPc8UBb?Ej3]7d61
+Z28 IUoaVOEFGY9?@zB3;GJd_V3
+Z29 VbdESaBU2XiSKX>8`m:>Sh0
+R4
+Z30 w1449728527
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z31 !s108 1449728528.640000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vrotate_shift_register_vlg_check_tst
+Z32 !s100 c5KZKE::OY5C=T7HRHh=]0
+Z33 I6[[HabEWSVSN>=45W=46`1
+Z34 VN>Dd0V50O0IgOB1N`MZ^n2
+R4
+Z35 w1449728526
+R17
+R18
+L0 59
+R8
+r1
+31
+Z36 !s108 1449728528.939000
+Z37 !s107 rotate_shift_register.vt|
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vrotate_shift_register_vlg_sample_tst
+Z38 !s100 _QkoKSQn1o5;Z0Cf`S8=T1
+Z39 IddF6F0<Q^cIcB2EGLIVP32
+Z40 VJOK:M;;1U?^_C`PcSnMZ<3
+R4
+R35
+R17
+R18
+L0 29
+R8
+r1
+31
+R36
+R37
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vrotate_shift_register_vlg_vec_tst
+Z41 !s100 nfDPQg?fDJa9Zcdd6;A[d1
+Z42 I;cX>6fi:3e_]Q>f;VO6`>1
+Z43 V;f<c3ZW5ZV3WN9j]f960z3
+R4
+R35
+R17
+R18
+R26
+R8
+r1
+31
+R36
+R37
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0

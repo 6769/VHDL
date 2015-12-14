@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+dH:\altera\13.0sp1
+Efsm_core
+Z0 w1450081605
+Z1 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+Z4 dG:\Programe\FPGA\Lab_3\Part01
+Z5 8G:/Programe/FPGA/Lab_3/Part01/FSM_core.vhd
+Z6 FG:/Programe/FPGA/Lab_3/Part01/FSM_core.vhd
+l0
+L6
+VU7MEADfY:<hn4n@80OA?U0
+!s100 CCKI3JnRUKZ68S?^:hP]n2
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1450081605.748000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_3/Part01/FSM_core.vhd|
+Z10 !s107 G:/Programe/FPGA/Lab_3/Part01/FSM_core.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 fsm_core 0 22 U7MEADfY:<hn4n@80OA?U0
+l22
+L14
+VEX8fX9OJNKnQ`D0iVdA4;3
+!s100 Qo;HYYFeMzD>a;CR5:;T]3
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12

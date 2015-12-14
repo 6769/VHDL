@@ -1,26 +1,25 @@
---Intertime clock
+library ieee;
+use ieee.numeric_bit.all;
 entity clock_second is
-	port(clk50Mhz:in bit ;
-		second:buffer bit);
+	port(clk :in bit;
+		second:out bit);
+		--Qout:out unsigned(31 downto 0));
 end entity clock_second;
 
-architecture Distribution of clock_second is
-
-
+architecture neibu of clock_second is
+	signal Q:unsigned(5 downto 0);
+	--signal Nullth:unsigned(31 downto 0);
 begin
-	process
-	variable counter_for_osc:integer:=0;
+	--Qout<=Q;
+	second<='0' when Q>25 
+		else '1';
+	process(clk)
 	begin
-		wait until clk50Mhz'event and clk50Mhz='1';
-		
-		if counter_for_osc < 50*1000*1000 and counter_for_osc>25*1000*1000 then
-			second<='1';
-			counter_for_osc:=counter_for_osc+1;
-		elsif counter_for_osc>25*1000*1000 then 
-			second<='0';
-			counter_for_osc:=counter_for_osc+1;
-		elsif counter_for_osc=50*1000*1000 then
-			counter_for_osc:=0;
+		if clk'event and clk='1' and Q<50 then
+			Q<=Q+1;
+		elsif clk'event and clk='1' then
+			Q<=(others=>'0');
 		end if;
 	end process;
-end architecture Distribution;
+
+end architecture neibu;

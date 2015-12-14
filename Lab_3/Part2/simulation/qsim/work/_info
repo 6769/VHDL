@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_3\Part2\simulation\qsim
+vView_input
+Z1 In5Q29[<DFhBW?nNKB4@n;0
+Z2 VN^XcN_i3bTZ5n0]e?3SWI0
+Z3 dG:\Programe\FPGA\Lab_3\Part2\simulation\qsim
+Z4 w1449999835
+Z5 8Part2.vo
+Z6 FPart2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Part2.vo|
+Z9 o-work work -O0
+Z10 n@view_input
+!i10b 1
+Z11 !s100 S8IKF0FHnGD14]h[oBMJ73
+!s85 0
+Z12 !s108 1449999836.515000
+Z13 !s107 Part2.vo|
+!s101 -O0
+vView_input_vlg_check_tst
+!i10b 1
+Z14 !s100 l7DP<SHYD298H^^oRGbZQ0
+Z15 IggLX]Fo<K;50YPhilX5YD2
+Z16 V@944K=nmbWP6L<ULQU`^V0
+R3
+Z17 w1449999834
+Z18 8Part2.vt
+Z19 FPart2.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1449999836.695000
+Z21 !s107 Part2.vt|
+Z22 !s90 -work|work|Part2.vt|
+!s101 -O0
+R9
+Z23 n@view_input_vlg_check_tst
+vView_input_vlg_sample_tst
+!i10b 1
+Z24 !s100 CNi_e7g9_BPh=VPZHn<1Q1
+Z25 I3QN8=`IG8II18PXB5Q4Jd3
+Z26 VFWL=lW[9Ql0O?i=k:Tc0Y1
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@view_input_vlg_sample_tst
+vView_input_vlg_vec_tst
+!i10b 1
+Z28 !s100 @m4NF0@J;TiYRDA8^R[>91
+Z29 IBk]o:[W74Tkd_L`h6fJHz0
+Z30 VbQS[^Oz0Jd@SgR8Um8^SF2
+R3
+R17
+R18
+R19
+Z31 L0 326
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@view_input_vlg_vec_tst

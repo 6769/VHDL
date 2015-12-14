@@ -2,29 +2,38 @@
 # ** Warning: (vlib-34) Library already exists at "work".
 # 
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-# -- Compiling module rotate_shift_register
+# -- Compiling module cyclic_reg_with_clock
 # 
 # Top level modules:
-# 	rotate_shift_register
+# 	cyclic_reg_with_clock
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-# -- Compiling module rotate_shift_register_vlg_sample_tst
-# -- Compiling module rotate_shift_register_vlg_check_tst
-# -- Compiling module rotate_shift_register_vlg_vec_tst
+# -- Compiling module cyclic_reg_with_clock_vlg_sample_tst
+# -- Compiling module cyclic_reg_with_clock_vlg_check_tst
+# -- Compiling module cyclic_reg_with_clock_vlg_vec_tst
 # 
 # Top level modules:
-# 	rotate_shift_register_vlg_vec_tst
-# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.rotate_shift_register_vlg_vec_tst 
-# Loading work.rotate_shift_register_vlg_vec_tst
-# Loading work.rotate_shift_register
+# 	cyclic_reg_with_clock_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.cyclic_reg_with_clock_vlg_vec_tst 
+# Loading work.cyclic_reg_with_clock_vlg_vec_tst
+# Loading work.cyclic_reg_with_clock
+# Loading cycloneii_ver.cycloneii_lcell_ff
+# Loading cycloneii_ver.cycloneii_lcell_comb
 # Loading cycloneii_ver.cycloneii_io
 # Loading cycloneii_ver.cycloneii_mux21
 # Loading cycloneii_ver.cycloneii_dffe
 # Loading cycloneii_ver.cycloneii_asynch_io
-# Loading cycloneii_ver.cycloneii_lcell_comb
-# Loading cycloneii_ver.cycloneii_lcell_ff
-# Loading work.rotate_shift_register_vlg_sample_tst
-# Loading work.rotate_shift_register_vlg_check_tst
+# Loading cycloneii_ver.cycloneii_clkctrl
+# Loading cycloneii_ver.cycloneii_mux41
+# Loading cycloneii_ver.cycloneii_ena_reg
+# Loading work.cyclic_reg_with_clock_vlg_sample_tst
+# Loading work.cyclic_reg_with_clock_vlg_check_tst
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from rotate_shift_register_v.sdo
 # Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
+# Loading timing data from rotate_shift_register_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /cyclic_reg_with_clock_vlg_vec_tst File: rotate_shift_register.vt
 # Simulation passed !
 # ** Note: $finish    : rotate_shift_register.vt(1339)
-#    Time: 1 us  Iteration: 0  Instance: /rotate_shift_register_vlg_vec_tst/tb_out
+#    Time: 1 us  Iteration: 0  Instance: /cyclic_reg_with_clock_vlg_vec_tst/tb_out

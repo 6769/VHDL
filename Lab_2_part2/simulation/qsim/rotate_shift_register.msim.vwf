@@ -32,7 +32,7 @@ HEADER
 	GRID_DUTY_CYCLE = 50;
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|clk")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|clk")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -42,7 +42,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|clk")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|reset")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|reset")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -52,7 +52,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|reset")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -62,7 +62,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -72,7 +72,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -82,7 +82,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -92,7 +92,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -102,7 +102,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -112,7 +112,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -122,7 +122,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex0[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -132,7 +132,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex0[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -142,7 +142,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -152,7 +152,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -162,7 +162,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -172,7 +172,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -182,7 +182,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -192,7 +192,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -202,7 +202,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex1[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -212,7 +212,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex1[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -222,7 +222,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -232,7 +232,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -242,7 +242,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -252,7 +252,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -262,7 +262,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -272,7 +272,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -282,7 +282,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex2[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -292,7 +292,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex2[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -302,7 +302,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -312,7 +312,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -322,7 +322,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -332,7 +332,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -342,7 +342,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -352,7 +352,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -362,7 +362,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex3[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -372,7 +372,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex3[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -382,7 +382,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -392,7 +392,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -402,7 +402,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -412,7 +412,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -422,7 +422,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -432,7 +432,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -442,7 +442,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex4[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -452,7 +452,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex4[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -462,7 +462,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -472,7 +472,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -482,7 +482,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -492,7 +492,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -502,7 +502,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -512,7 +512,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -522,7 +522,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex5[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -532,7 +532,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex5[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -542,7 +542,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -552,7 +552,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -562,7 +562,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -572,7 +572,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -582,7 +582,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -592,7 +592,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -602,7 +602,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex6[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -612,7 +612,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex6[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[7]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -622,7 +622,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[7]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[6]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -632,7 +632,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[6]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[5]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -642,7 +642,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[5]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[4]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -652,7 +652,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[4]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[3]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -662,7 +662,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[3]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[2]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -672,7 +672,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[2]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[1]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -682,7 +682,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[1]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[0]")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|hex7[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -692,7 +692,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|hex7[0]")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|sampler")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|sampler")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -702,7 +702,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|sampler")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|gnd")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|gnd")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -712,7 +712,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|gnd")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|vcc")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|vcc")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -722,7 +722,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|vcc")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|unknown")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|unknown")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -732,7 +732,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|unknown")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|devclrn")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|devclrn")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -742,7 +742,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|devclrn")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|devpor")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|devpor")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -752,7 +752,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|devpor")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|devoe")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|devoe")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -762,7 +762,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|devoe")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|clk~combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]~12_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -772,7 +772,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|clk~combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[1]~0_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clk~combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -782,7 +782,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[1]~0_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|reset~combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]~6_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -792,7 +792,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|reset~combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]~15")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -802,7 +802,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[2]~1_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[5]~16_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -812,7 +812,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[2]~1_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[2]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]~8_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -822,7 +822,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[2]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[4]~2_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|LessThan0~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -832,7 +832,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[4]~2_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|LessThan1~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -842,7 +842,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[5]~3_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]~7")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -852,7 +852,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[5]~3_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]~9")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -862,7 +862,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[7]~1_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]~10_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -872,7 +872,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[7]~1_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]~11")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -882,7 +882,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]~13")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -892,7 +892,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]~14_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -902,7 +902,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|rtl~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -912,7 +912,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex0[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[1]~0_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|rtl~0clkctrl_outclk")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -922,7 +922,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[1]~0_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[1]~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -932,7 +932,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[2]~1_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reset~combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -942,7 +942,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[2]~1_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[2]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[1]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -952,7 +952,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[2]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[1]~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -962,7 +962,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[1]~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -972,7 +972,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[1]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -982,7 +982,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex1[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[1]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -992,7 +992,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[2]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[1]~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1002,7 +1002,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[2]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[2]~1_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1012,7 +1012,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[2]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1022,7 +1022,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[2]~1_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1032,7 +1032,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex2[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[1]~0_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[4]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1042,7 +1042,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[1]~0_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[4]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1052,7 +1052,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[2]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[4]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1062,7 +1062,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[2]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[4]~1_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1072,7 +1072,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[4]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1082,7 +1082,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[7]~1_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[4]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1092,7 +1092,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[7]~1_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[4]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1102,7 +1102,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex3[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[1]~0_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[4]~2_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1112,7 +1112,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[1]~0_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[5]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1122,7 +1122,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[4]~1_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[5]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1132,7 +1132,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[4]~1_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[5]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1142,7 +1142,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[5]~0_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1152,7 +1152,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[7]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[5]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1162,7 +1162,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex4[7]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[5]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1172,7 +1172,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[5]~3_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1182,7 +1182,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[5]~0_combout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[7]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1192,7 +1192,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[5]~0_combout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[7]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1202,7 +1202,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex5[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[7]~1_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1212,7 +1212,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[7]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1222,7 +1222,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[7]~1_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1232,7 +1232,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex6[5]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[1]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[7]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1242,7 +1242,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[1]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[4]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[7]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1252,7 +1252,7 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[4]~reg0_regout")
 	PARENT = "";
 }
 
-SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[5]~reg0_regout")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[7]~feeder_combout")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -1262,195 +1262,1051 @@ SIGNAL("rotate_shift_register_vlg_vec_tst|i1|hex7[5]~reg0_regout")
 	PARENT = "";
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|clk")
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|clk")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|reset")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|reset")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 880.0;
-	}
-}
-
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[7]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 20.0;
-	}
-}
-
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[6]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
 		LEVEL 0 FOR 100.0;
+		LEVEL 1 FOR 900.0;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 7.226;
+		LEVEL 1 FOR 992.774;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 5.815;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 584.506;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 5.835;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 584.486;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 5.973;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 584.36;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 7.243;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 583.09;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 7.937;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 582.396;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 5.834;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 584.487;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex0[0]")
 {
 	NODE
 	{
@@ -1459,128 +2315,86 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex0[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 300.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 5.857;
+		LEVEL 1 FOR 994.143;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 6.799;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 175.522;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 6.783;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 175.538;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 8.177;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 174.156;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 7.159;
+		LEVEL 1 FOR 409.667;
+		LEVEL 0 FOR 408.0;
+		LEVEL 1 FOR 175.174;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 7.423;
+		LEVEL 1 FOR 409.667;
+		LEVEL 0 FOR 408.0;
+		LEVEL 1 FOR 174.91;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 7.17;
+		LEVEL 1 FOR 409.679;
+		LEVEL 0 FOR 408.0;
+		LEVEL 1 FOR 175.151;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex1[0]")
 {
 	NODE
 	{
@@ -1589,124 +2403,80 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex1[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 340.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 6.146;
+		LEVEL 1 FOR 993.854;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 6.774;
+		LEVEL 0 FOR 993.226;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 6.774;
+		LEVEL 0 FOR 993.226;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 5.831;
+		LEVEL 0 FOR 994.169;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 5.937;
+		LEVEL 1 FOR 817.667;
+		LEVEL 0 FOR 176.396;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 5.926;
+		LEVEL 1 FOR 817.667;
+		LEVEL 0 FOR 176.407;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 5.882;
+		LEVEL 1 FOR 817.679;
+		LEVEL 0 FOR 176.439;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex2[0]")
 {
 	NODE
 	{
@@ -1715,121 +2485,79 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex2[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 220.0;
+		LEVEL X FOR 4.158;
+		LEVEL 0 FOR 409.674;
+		LEVEL 1 FOR 586.168;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 3.98;
+		LEVEL 0 FOR 996.02;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 4.301;
+		LEVEL 0 FOR 995.699;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 3.649;
+		LEVEL 0 FOR 996.351;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 4.003;
+		LEVEL 1 FOR 995.997;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 3.674;
+		LEVEL 1 FOR 996.326;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 3.647;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 586.674;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex3[0]")
 {
 	NODE
 	{
@@ -1838,125 +2566,83 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex3[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 180.0;
+		LEVEL X FOR 3.882;
+		LEVEL 0 FOR 817.674;
+		LEVEL 1 FOR 178.444;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 3.711;
+		LEVEL 0 FOR 996.289;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 3.681;
+		LEVEL 0 FOR 996.319;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 3.371;
+		LEVEL 1 FOR 409.667;
+		LEVEL 0 FOR 586.962;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 3.663;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 586.67;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 3.687;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 586.646;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 3.381;
+		LEVEL 1 FOR 409.679;
+		LEVEL 0 FOR 408.0;
+		LEVEL 1 FOR 178.94;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex4[0]")
 {
 	NODE
 	{
@@ -1965,130 +2651,86 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex4[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 4.506;
+		LEVEL 1 FOR 409.674;
+		LEVEL 0 FOR 585.82;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 4.018;
+		LEVEL 1 FOR 409.679;
+		LEVEL 0 FOR 586.303;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 4.005;
+		LEVEL 1 FOR 409.679;
+		LEVEL 0 FOR 586.316;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 3.711;
+		LEVEL 1 FOR 817.667;
+		LEVEL 0 FOR 178.622;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 3.863;
+		LEVEL 1 FOR 409.667;
+		LEVEL 0 FOR 408.0;
+		LEVEL 1 FOR 178.47;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 3.873;
+		LEVEL 1 FOR 409.667;
+		LEVEL 0 FOR 408.0;
+		LEVEL 1 FOR 178.46;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 3.691;
+		LEVEL 1 FOR 817.679;
+		LEVEL 0 FOR 178.63;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex5[0]")
 {
 	NODE
 	{
@@ -2097,124 +2739,82 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex5[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 4.825;
+		LEVEL 1 FOR 817.674;
+		LEVEL 0 FOR 177.501;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 180.0;
+		LEVEL X FOR 5.105;
+		LEVEL 1 FOR 817.679;
+		LEVEL 0 FOR 177.216;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 180.0;
+		LEVEL X FOR 5.099;
+		LEVEL 1 FOR 817.679;
+		LEVEL 0 FOR 177.222;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 140.0;
+		LEVEL X FOR 4.894;
+		LEVEL 1 FOR 995.106;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 5.29;
+		LEVEL 1 FOR 817.667;
+		LEVEL 0 FOR 177.043;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 5.36;
+		LEVEL 1 FOR 817.667;
+		LEVEL 0 FOR 176.973;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 4.95;
+		LEVEL 1 FOR 995.05;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex6[0]")
 {
 	NODE
 	{
@@ -2223,121 +2823,77 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex6[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[7]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[7]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 4.223;
+		LEVEL 1 FOR 995.777;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[6]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[6]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
+		LEVEL X FOR 4.644;
+		LEVEL 1 FOR 995.356;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[5]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[5]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
+		LEVEL X FOR 4.313;
+		LEVEL 1 FOR 995.687;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[4]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[4]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 4.017;
+		LEVEL 1 FOR 995.983;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[3]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[3]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 3.736;
+		LEVEL 1 FOR 996.264;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[2]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[2]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 3.736;
+		LEVEL 1 FOR 996.264;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[1]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[1]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 4.007;
+		LEVEL 1 FOR 995.993;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[0]")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|hex7[0]")
 {
 	NODE
 	{
@@ -2346,65 +2902,265 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|hex7[0]")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|sampler")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|sampler")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|gnd")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|gnd")
 {
 	NODE
 	{
@@ -2413,7 +3169,7 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|gnd")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|vcc")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|vcc")
 {
 	NODE
 	{
@@ -2422,7 +3178,7 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|vcc")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|unknown")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|unknown")
 {
 	NODE
 	{
@@ -2431,7 +3187,7 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|unknown")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|devclrn")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|devclrn")
 {
 	NODE
 	{
@@ -2440,7 +3196,7 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|devclrn")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|devpor")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|devpor")
 {
 	NODE
 	{
@@ -2449,7 +3205,7 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|devpor")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|devoe")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|devoe")
 {
 	NODE
 	{
@@ -2458,866 +3214,2371 @@ TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|devoe")
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|clk~combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]~12_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 1.117;
+		LEVEL 0 FOR 54.441;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 88.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 88.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 0.442;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[1]~0_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clk~combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL 0 FOR 4.842;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 4.0;
+		LEVEL 0 FOR 4.0;
+		LEVEL 1 FOR 3.158;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|reset~combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]~6_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 880.0;
+		LEVEL X FOR 0.73;
+		LEVEL 1 FOR 6.303;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 0.967;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]~15")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 0.726;
+		LEVEL 0 FOR 126.303;
+		LEVEL 1 FOR 0.099;
+		LEVEL 0 FOR 96.024;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.739;
+		LEVEL 0 FOR 128.0;
+		LEVEL 1 FOR 0.099;
+		LEVEL 0 FOR 151.901;
+		LEVEL 1 FOR 0.099;
+		LEVEL 0 FOR 96.024;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.739;
+		LEVEL 0 FOR 128.0;
+		LEVEL 1 FOR 0.099;
+		LEVEL 0 FOR 151.901;
+		LEVEL 1 FOR 0.099;
+		LEVEL 0 FOR 56.872;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[2]~1_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[5]~16_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 1.136;
+		LEVEL 0 FOR 246.564;
+		LEVEL 1 FOR 7.081;
+		LEVEL 0 FOR 0.658;
+		LEVEL 1 FOR 151.342;
+		LEVEL 0 FOR 248.919;
+		LEVEL 1 FOR 7.081;
+		LEVEL 0 FOR 0.658;
+		LEVEL 1 FOR 151.342;
+		LEVEL 0 FOR 185.219;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[2]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]~8_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 1.113;
+		LEVEL 0 FOR 6.303;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 15.661;
+		LEVEL 0 FOR 8.339;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 15.661;
+		LEVEL 0 FOR 8.339;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 0.584;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[4]~2_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|LessThan0~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 0.602;
+		LEVEL 1 FOR 14.303;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 48.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 41.095;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|LessThan1~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 0.754;
+		LEVEL 0 FOR 382.315;
+		LEVEL 1 FOR 0.248;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 7.74;
+		LEVEL 0 FOR 384.012;
+		LEVEL 1 FOR 0.248;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 7.74;
+		LEVEL 0 FOR 184.943;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[5]~3_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]~7")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
+		LEVEL X FOR 0.703;
+		LEVEL 0 FOR 6.303;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 0.994;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]~9")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 0.75;
+		LEVEL 1 FOR 22.327;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 48.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 48.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.976;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 0.923;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex5[7]~1_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]~10_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
+		LEVEL X FOR 1.16;
+		LEVEL 0 FOR 22.327;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 48.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 48.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.55;
+		LEVEL 1 FOR 0.426;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.55;
+		LEVEL 0 FOR 0.426;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 0.513;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex5[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]~11")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 140.0;
+		LEVEL X FOR 0.707;
+		LEVEL 0 FOR 30.303;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 56.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 56.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 7.862;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 0.114;
+		LEVEL 0 FOR 24.024;
+		LEVEL 1 FOR 0.852;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex6[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]~13")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 0.754;
+		LEVEL 1 FOR 94.327;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 96.024;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 96.024;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 120.024;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 96.024;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 96.024;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 120.024;
+		LEVEL 0 FOR 0.114;
+		LEVEL 1 FOR 24.024;
+		LEVEL 0 FOR 7.838;
+		LEVEL 1 FOR 56.943;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex7[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]~14_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 1.164;
+		LEVEL 0 FOR 118.465;
+		LEVEL 1 FOR 7.427;
+		LEVEL 0 FOR 0.411;
+		LEVEL 1 FOR 120.162;
+		LEVEL 0 FOR 7.427;
+		LEVEL 1 FOR 0.411;
+		LEVEL 0 FOR 120.162;
+		LEVEL 1 FOR 7.427;
+		LEVEL 0 FOR 0.411;
+		LEVEL 1 FOR 23.589;
+		LEVEL 0 FOR 120.573;
+		LEVEL 1 FOR 7.427;
+		LEVEL 0 FOR 0.411;
+		LEVEL 1 FOR 120.162;
+		LEVEL 0 FOR 7.427;
+		LEVEL 1 FOR 0.411;
+		LEVEL 0 FOR 120.162;
+		LEVEL 1 FOR 7.427;
+		LEVEL 0 FOR 0.411;
+		LEVEL 1 FOR 23.589;
+		LEVEL 0 FOR 120.573;
+		LEVEL 1 FOR 7.427;
+		LEVEL 0 FOR 0.411;
+		LEVEL 1 FOR 56.533;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex0[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|rtl~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.769;
+		LEVEL 1 FOR 190.313;
+		LEVEL 0 FOR 0.237;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 199.753;
+		LEVEL 1 FOR 192.01;
+		LEVEL 0 FOR 0.237;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 199.753;
+		LEVEL 1 FOR 184.928;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[1]~0_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|rtl~0clkctrl_outclk")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 1.597;
+		LEVEL 1 FOR 206.55;
+		LEVEL 0 FOR 199.753;
+		LEVEL 1 FOR 208.247;
+		LEVEL 0 FOR 199.753;
+		LEVEL 1 FOR 184.1;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[1]~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 0.814;
+		LEVEL 1 FOR 409.679;
+		LEVEL 0 FOR 589.507;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[2]~1_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reset~combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL 0 FOR 100.822;
+		LEVEL 1 FOR 899.178;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[2]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[1]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.672;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 408.0;
+		LEVEL 0 FOR 181.649;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[1]~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.817;
+		LEVEL 1 FOR 817.679;
+		LEVEL 0 FOR 181.504;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[1]~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 0.815;
+		LEVEL 1 FOR 409.679;
+		LEVEL 0 FOR 589.506;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex1[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[1]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 0.68;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 408.0;
+		LEVEL 0 FOR 181.641;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex2[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[1]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 140.0;
+		LEVEL X FOR 0.681;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 181.64;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex2[2]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[1]~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 0.816;
+		LEVEL 1 FOR 999.184;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex2[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[2]~1_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 0.821;
+		LEVEL 1 FOR 409.667;
+		LEVEL 0 FOR 589.512;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex2[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[2]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.681;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 181.652;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex2[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[2]~1_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 340.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 240.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 0.814;
+		LEVEL 1 FOR 999.186;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[1]~0_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[4]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 0.676;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 589.657;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[4]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 0.68;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 181.653;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[2]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[4]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 0.678;
+		LEVEL 0 FOR 999.322;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[4]~1_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 0.682;
+		LEVEL 1 FOR 999.318;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[4]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 0.679;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 589.654;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[7]~1_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[4]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 340.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.681;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 181.652;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex3[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[4]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 220.0;
+		LEVEL X FOR 0.673;
+		LEVEL 0 FOR 999.327;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex4[1]~0_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[4]~2_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 0.682;
+		LEVEL 1 FOR 999.318;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex4[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[5]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 0.68;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 181.641;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex4[4]~1_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[5]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 100.0;
+		LEVEL X FOR 0.682;
+		LEVEL 0 FOR 999.318;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex4[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[5]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 0.681;
+		LEVEL 0 FOR 999.319;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex4[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[5]~0_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 200.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL X FOR 0.68;
+		LEVEL 1 FOR 999.32;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex4[7]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[5]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 240.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 180.0;
+		LEVEL X FOR 0.681;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 589.64;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex5[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[5]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.678;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 181.643;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex5[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[5]~3_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.682;
+		LEVEL 1 FOR 999.318;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex5[5]~0_combout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[7]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 300.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 0.675;
+		LEVEL 0 FOR 999.325;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex5[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[7]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 20.0;
+		LEVEL X FOR 0.677;
+		LEVEL 0 FOR 999.323;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex6[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[7]~1_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 20.0;
+		LEVEL X FOR 0.677;
+		LEVEL 1 FOR 999.323;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex6[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[7]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 0.676;
+		LEVEL 0 FOR 409.674;
+		LEVEL 1 FOR 589.65;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex6[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[7]~1_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 180.0;
+		LEVEL X FOR 0.808;
+		LEVEL 1 FOR 817.674;
+		LEVEL 0 FOR 181.518;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex7[1]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[7]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL X FOR 0.675;
+		LEVEL 0 FOR 409.674;
+		LEVEL 1 FOR 589.651;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex7[4]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[7]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 100.0;
+		LEVEL X FOR 0.669;
+		LEVEL 0 FOR 817.674;
+		LEVEL 1 FOR 181.657;
 	}
 }
 
-TRANSITION_LIST("rotate_shift_register_vlg_vec_tst|i1|hex7[5]~reg0_regout")
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[7]~feeder_combout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
+		LEVEL X FOR 0.678;
+		LEVEL 0 FOR 999.322;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.674;
+		LEVEL 1 FOR 590.108;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 590.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 182.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 182.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 254.303;
+		LEVEL 1 FOR 152.0;
+		LEVEL 0 FOR 256.0;
+		LEVEL 1 FOR 152.0;
+		LEVEL 0 FOR 185.697;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 126.303;
+		LEVEL 1 FOR 128.0;
+		LEVEL 0 FOR 128.0;
+		LEVEL 1 FOR 24.0;
+		LEVEL 0 FOR 128.0;
+		LEVEL 1 FOR 128.0;
+		LEVEL 0 FOR 128.0;
+		LEVEL 1 FOR 24.0;
+		LEVEL 0 FOR 128.0;
+		LEVEL 1 FOR 57.697;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 62.303;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 88.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 64.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 88.0;
+		LEVEL 1 FOR 64.0;
+		LEVEL 0 FOR 57.697;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 30.303;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 56.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 56.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 32.0;
+		LEVEL 0 FOR 32.0;
+		LEVEL 1 FOR 25.697;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 14.303;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 16.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 9.697;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 6.303;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 16.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 8.0;
+		LEVEL 0 FOR 8.0;
+		LEVEL 1 FOR 1.697;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 590.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 590.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 590.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 590.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 182.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 182.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.674;
+		LEVEL 1 FOR 182.108;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 182.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.679;
+		LEVEL 1 FOR 182.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.667;
+		LEVEL 1 FOR 182.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 408.0;
+		LEVEL 0 FOR 182.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 408.0;
+		LEVEL 0 FOR 182.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 817.674;
+		LEVEL 1 FOR 182.108;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.667;
+		LEVEL 1 FOR 590.115;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 408.0;
+		LEVEL 0 FOR 182.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.674;
+		LEVEL 1 FOR 590.108;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 999.782;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 0.218;
+		LEVEL 0 FOR 409.679;
+		LEVEL 1 FOR 590.103;
+	}
+}
+
+TRANSITION_LIST("cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL Z FOR 1000.0;
 	}
 }
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|clk";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|clk";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 0;
@@ -3326,7 +5587,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|reset";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|reset";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1;
@@ -3335,7 +5596,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2;
@@ -3344,7 +5605,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 3;
@@ -3353,7 +5614,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 4;
@@ -3362,7 +5623,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 5;
@@ -3371,7 +5632,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 6;
@@ -3380,7 +5641,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 7;
@@ -3389,7 +5650,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 8;
@@ -3398,7 +5659,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex0[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex0[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 9;
@@ -3407,7 +5668,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 10;
@@ -3416,7 +5677,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 11;
@@ -3425,7 +5686,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 12;
@@ -3434,7 +5695,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 13;
@@ -3443,7 +5704,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 14;
@@ -3452,7 +5713,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 15;
@@ -3461,7 +5722,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 16;
@@ -3470,7 +5731,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex1[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex1[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 17;
@@ -3479,7 +5740,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 18;
@@ -3488,7 +5749,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 19;
@@ -3497,7 +5758,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 20;
@@ -3506,7 +5767,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 21;
@@ -3515,7 +5776,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 22;
@@ -3524,7 +5785,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 23;
@@ -3533,7 +5794,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 24;
@@ -3542,7 +5803,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex2[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex2[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 25;
@@ -3551,7 +5812,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 26;
@@ -3560,7 +5821,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 27;
@@ -3569,7 +5830,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 28;
@@ -3578,7 +5839,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 29;
@@ -3587,7 +5848,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 30;
@@ -3596,7 +5857,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 31;
@@ -3605,7 +5866,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 32;
@@ -3614,7 +5875,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex3[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex3[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 33;
@@ -3623,7 +5884,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 34;
@@ -3632,7 +5893,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 35;
@@ -3641,7 +5902,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 36;
@@ -3650,7 +5911,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 37;
@@ -3659,7 +5920,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 38;
@@ -3668,7 +5929,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 39;
@@ -3677,7 +5938,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 40;
@@ -3686,7 +5947,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex4[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex4[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 41;
@@ -3695,7 +5956,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 42;
@@ -3704,7 +5965,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 43;
@@ -3713,7 +5974,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 44;
@@ -3722,7 +5983,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 45;
@@ -3731,7 +5992,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 46;
@@ -3740,7 +6001,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 47;
@@ -3749,7 +6010,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 48;
@@ -3758,7 +6019,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex5[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex5[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 49;
@@ -3767,7 +6028,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 50;
@@ -3776,7 +6037,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 51;
@@ -3785,7 +6046,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 52;
@@ -3794,7 +6055,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 53;
@@ -3803,7 +6064,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 54;
@@ -3812,7 +6073,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 55;
@@ -3821,7 +6082,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 56;
@@ -3830,7 +6091,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex6[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex6[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 57;
@@ -3839,7 +6100,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[7]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 58;
@@ -3848,7 +6109,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[6]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 59;
@@ -3857,7 +6118,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[5]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 60;
@@ -3866,7 +6127,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[4]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 61;
@@ -3875,7 +6136,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[3]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 62;
@@ -3884,7 +6145,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[2]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 63;
@@ -3893,7 +6154,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[1]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 64;
@@ -3902,7 +6163,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|hex7[0]";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|hex7[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 65;
@@ -3911,7 +6172,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|sampler";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|sampler";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 66;
@@ -3920,7 +6181,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|gnd";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|gnd";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 67;
@@ -3929,7 +6190,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|vcc";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|vcc";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 68;
@@ -3938,7 +6199,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|unknown";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|unknown";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 69;
@@ -3947,7 +6208,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|devclrn";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|devclrn";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 70;
@@ -3956,7 +6217,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|devpor";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|devpor";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 71;
@@ -3965,7 +6226,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|devoe";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|devoe";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 72;
@@ -3974,7 +6235,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|clk~combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]~12_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 73;
@@ -3983,7 +6244,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[1]~0_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clk~combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 74;
@@ -3992,7 +6253,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|reset~combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]~6_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 75;
@@ -4001,7 +6262,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]~15";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 76;
@@ -4010,7 +6271,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[2]~1_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[5]~16_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 77;
@@ -4019,7 +6280,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[2]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]~8_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 78;
@@ -4028,7 +6289,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[4]~2_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|LessThan0~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 79;
@@ -4037,7 +6298,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|LessThan1~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 80;
@@ -4046,7 +6307,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[5]~3_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]~7";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 81;
@@ -4055,7 +6316,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]~9";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 82;
@@ -4064,7 +6325,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex5[7]~1_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]~10_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 83;
@@ -4073,7 +6334,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex5[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]~11";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 84;
@@ -4082,7 +6343,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex6[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]~13";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 85;
@@ -4091,7 +6352,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex7[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]~14_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 86;
@@ -4100,7 +6361,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex0[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|rtl~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 87;
@@ -4109,7 +6370,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[1]~0_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|rtl~0clkctrl_outclk";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 88;
@@ -4118,7 +6379,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[1]~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 89;
@@ -4127,7 +6388,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[2]~1_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reset~combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 90;
@@ -4136,7 +6397,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[2]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[1]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 91;
@@ -4145,7 +6406,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[1]~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 92;
@@ -4154,7 +6415,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[1]~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 93;
@@ -4163,7 +6424,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex1[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[1]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 94;
@@ -4172,7 +6433,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex2[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[1]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 95;
@@ -4181,7 +6442,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex2[2]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[1]~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 96;
@@ -4190,7 +6451,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex2[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[2]~1_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 97;
@@ -4199,7 +6460,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex2[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[2]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 98;
@@ -4208,7 +6469,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex2[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[2]~1_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 99;
@@ -4217,7 +6478,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[1]~0_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[4]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 100;
@@ -4226,7 +6487,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[4]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 101;
@@ -4235,7 +6496,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[2]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[4]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 102;
@@ -4244,7 +6505,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[4]~1_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 103;
@@ -4253,7 +6514,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[4]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 104;
@@ -4262,7 +6523,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[7]~1_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[4]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 105;
@@ -4271,7 +6532,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex3[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[4]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 106;
@@ -4280,7 +6541,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex4[1]~0_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[4]~2_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 107;
@@ -4289,7 +6550,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex4[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[5]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 108;
@@ -4298,7 +6559,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex4[4]~1_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[5]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 109;
@@ -4307,7 +6568,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex4[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[5]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 110;
@@ -4316,7 +6577,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex4[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[5]~0_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 111;
@@ -4325,7 +6586,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex4[7]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[5]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 112;
@@ -4334,7 +6595,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex5[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[5]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 113;
@@ -4343,7 +6604,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex5[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[5]~3_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 114;
@@ -4352,7 +6613,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex5[5]~0_combout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[7]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 115;
@@ -4361,7 +6622,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex5[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[7]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 116;
@@ -4370,7 +6631,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex6[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[7]~1_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 117;
@@ -4379,7 +6640,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex6[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[7]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 118;
@@ -4388,7 +6649,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex6[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[7]~1_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 119;
@@ -4397,7 +6658,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex7[1]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[7]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 120;
@@ -4406,7 +6667,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex7[4]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[7]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 121;
@@ -4415,10 +6676,640 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "rotate_shift_register_vlg_vec_tst|i1|hex7[5]~reg0_regout";
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[7]~feeder_combout";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 122;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 123;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 124;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 125;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 126;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 127;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 128;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 129;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex5[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 130;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 131;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 132;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 133;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 134;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 135;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|clock0|Q[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 136;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 137;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 138;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 139;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 140;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 141;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 142;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 143;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex0[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 144;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 145;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 146;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 147;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 148;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 149;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 150;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 151;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex2[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 152;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 153;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 154;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 155;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 156;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 157;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 158;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 159;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex6[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 160;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 161;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 162;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 163;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 164;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 165;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 166;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 167;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex7[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 168;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 169;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 170;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 171;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 172;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 173;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 174;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 175;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex1[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 176;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 177;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 178;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 179;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 180;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 181;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 182;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 183;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex4[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 184;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[7]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 185;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[6]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 186;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[5]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 187;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[4]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 188;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[3]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 189;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[2]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 190;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[1]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 191;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "cyclic_reg_with_clock_vlg_vec_tst|i1|reg0|hex3[0]";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 192;
 	TREE_LEVEL = 0;
 }
 ;

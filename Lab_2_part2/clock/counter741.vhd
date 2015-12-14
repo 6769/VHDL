@@ -9,7 +9,7 @@ end entity counter741;
 
 architecture neibu of counter741 is
 	signal Q:unsigned(31 downto 0);
-	signal Nullth:unsigned(31 downto 0);
+	--signal Nullth:unsigned(31 downto 0);
 begin
 	Qout<=Q;
 	second<='0' when Q>25 
@@ -19,7 +19,7 @@ begin
 		if clk'event and clk='1' and Q<50 then
 			Q<=Q+1;
 		elsif clk'event and clk='1' then
-			Q<=Nullth;
+			Q<=(others=>'0');
 		end if;
 	end process;
 
