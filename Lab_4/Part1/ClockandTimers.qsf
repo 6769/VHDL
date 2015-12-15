@@ -51,15 +51,43 @@ set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda
 set_global_assignment -name VHDL_FILE clock_second.vhd
 set_global_assignment -name VHDL_FILE counter_max10.vhd
 set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_counter_max10.vwf
-set_global_assignment -name SIMULATION_MODE FUNCTIONAL
-set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST ON -section_id eda_simulation
+set_global_assignment -name SIMULATION_MODE TIMING
+set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_simulation
 set_global_assignment -name VHDL_FILE Threebit_BCD_counter.vhd
 set_global_assignment -name VHDL_FILE View_output.vhd
 set_global_assignment -name VHDL_FILE Segment7Decoder.vhd
 set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_Threebit_BCD_counter.vwf
-set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_4/Part1/Waveform_test_Threebit_BCD_counter.vwf"
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_View_output.vwf
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_AA23 -to reset
+set_location_assignment PIN_AD15 -to clk
+set_location_assignment PIN_AD12 -to hex0_out[7]
+set_location_assignment PIN_AD11 -to hex0_out[6]
+set_location_assignment PIN_AF10 -to hex0_out[5]
+set_location_assignment PIN_AD10 -to hex0_out[4]
+set_location_assignment PIN_AH9 -to hex0_out[3]
+set_location_assignment PIN_AF9 -to hex0_out[2]
+set_location_assignment PIN_AE8 -to hex0_out[1]
+set_location_assignment PIN_AF12 -to hex0_out[0]
+set_location_assignment PIN_AD17 -to hex1_out[7]
+set_location_assignment PIN_AF17 -to hex1_out[6]
+set_location_assignment PIN_AE17 -to hex1_out[5]
+set_location_assignment PIN_AG16 -to hex1_out[4]
+set_location_assignment PIN_AF16 -to hex1_out[3]
+set_location_assignment PIN_AE16 -to hex1_out[2]
+set_location_assignment PIN_AG13 -to hex1_out[1]
+set_location_assignment PIN_AC17 -to hex1_out[0]
+set_location_assignment PIN_AE19 -to hex2_out[7]
+set_location_assignment PIN_AB19 -to hex2_out[6]
+set_location_assignment PIN_AB18 -to hex2_out[5]
+set_location_assignment PIN_AG4 -to hex2_out[4]
+set_location_assignment PIN_AH5 -to hex2_out[3]
+set_location_assignment PIN_AF7 -to hex2_out[2]
+set_location_assignment PIN_AE7 -to hex2_out[1]
+set_location_assignment PIN_AC19 -to hex2_out[0]
+set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_4/Part1/Waveform_test_counter_max10.vwf"
+set_global_assignment -name EDA_TIME_SCALE "1 ps" -section_id eda_simulation
 set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
 set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
-set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_View_output.vwf
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

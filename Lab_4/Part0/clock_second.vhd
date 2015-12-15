@@ -16,17 +16,13 @@ begin
 	begin
 
 		wait until clk'event and clk='1';
-		if counter_for_osc_signal < 25*1000*1000 
+		if counter_for_osc_signal < 50*1000*1000 
 			then 
 			counter_for_osc_signal<=counter_for_osc_signal+1;
 			else counter_for_osc_signal<=(others=>'0');
-				second<=not second;
-				--here is the problem that second signal will result unflatten square wave,if using the commented mathod.
 		end if;
 	end process;
---	second<='1' when counter_for_osc_signal> 25*1000*1000 --High_percent_of_counter
---		else '0' ;
-
--- timing analysis here ...
+	second<='1' when counter_for_osc_signal> 25*1000*1000 --High_percent_of_counter
+		else '0' ;
 end architecture Distribution;
 

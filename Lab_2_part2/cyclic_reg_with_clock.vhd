@@ -6,11 +6,10 @@ end entity cyclic_reg_with_clock;
 
 architecture combine of cyclic_reg_with_clock is
 
-	component clock_second
-	port(clk :in bit;
-		second:out bit);
-		--Qout:out unsigned(31 downto 0));
-	end component;
+component clock_second is
+port(clk:in bit ;
+		second:buffer bit);
+end component;
 	component rotate_shift_register 
     port(clk,reset: in bit;
 		--problem is that the predefined value seems didn't assigned

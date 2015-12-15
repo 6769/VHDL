@@ -2,22 +2,20 @@
 # ** Warning: (vlib-34) Library already exists at "work".
 # 
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-# -- Compiling module Threebit_BCD_counter
+# -- Compiling module counter_max10
 # 
 # Top level modules:
-# 	Threebit_BCD_counter
+# 	counter_max10
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-# -- Compiling module Threebit_BCD_counter_vlg_sample_tst
-# -- Compiling module Threebit_BCD_counter_vlg_check_tst
-# -- Compiling module Threebit_BCD_counter_vlg_vec_tst
+# -- Compiling module counter_max10_vlg_sample_tst
+# -- Compiling module counter_max10_vlg_check_tst
+# -- Compiling module counter_max10_vlg_vec_tst
 # 
 # Top level modules:
-# 	Threebit_BCD_counter_vlg_vec_tst
-# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.Threebit_BCD_counter_vlg_vec_tst 
-# Loading work.Threebit_BCD_counter_vlg_vec_tst
-# Loading work.Threebit_BCD_counter
-# Loading cycloneii_ver.cycloneii_lcell_ff
-# Loading cycloneii_ver.cycloneii_lcell_comb
+# 	counter_max10_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.counter_max10_vlg_vec_tst 
+# Loading work.counter_max10_vlg_vec_tst
+# Loading work.counter_max10
 # Loading cycloneii_ver.cycloneii_io
 # Loading cycloneii_ver.cycloneii_mux21
 # Loading cycloneii_ver.cycloneii_dffe
@@ -25,39 +23,17 @@
 # Loading cycloneii_ver.cycloneii_clkctrl
 # Loading cycloneii_ver.cycloneii_mux41
 # Loading cycloneii_ver.cycloneii_ena_reg
-# Loading work.Threebit_BCD_counter_vlg_sample_tst
-# Loading work.Threebit_BCD_counter_vlg_check_tst
+# Loading cycloneii_ver.cycloneii_lcell_comb
+# Loading cycloneii_ver.cycloneii_lcell_ff
+# Loading work.counter_max10_vlg_sample_tst
+# Loading work.counter_max10_vlg_check_tst
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from ClockandTimers_v.sdo
 # Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
-# ERROR! Vector Mismatch for output port Counter_Result[1] :: @time = 1002000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000000000010
-# ERROR! Vector Mismatch for output port Counter_Result[0] :: @time = 1074000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000000000011
-# ERROR! Vector Mismatch for output port Counter_Result[2] :: @time = 1380000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000000000100
-# ERROR! Vector Mismatch for output port Counter_Result[3] :: @time = 2604000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000000001000
-# ERROR! Vector Mismatch for output port Counter_Result[4] :: @time = 3216000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000000010000
-# ERROR! Vector Mismatch for output port Counter_Result[5] :: @time = 6276000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000000100000
-# ERROR! Vector Mismatch for output port Counter_Result[6] :: @time = 12396000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000001000000
-# ERROR! Vector Mismatch for output port Counter_Result[7] :: @time = 24636000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000010000000
-# ERROR! Vector Mismatch for output port Counter_Result[8] :: @time = 30756000.000 ps
-#      Expected value = 000000000000
-#      Real value = 000100000000
-# ERROR! Vector Mismatch for output port Counter_Result[9] :: @time = 61356000.000 ps
-#      Expected value = 000000000000
-#      Real value = 001000000000
-#          10 mismatched vectors : Simulation failed !
-# ** Note: $finish    : ClockandTimers.vt(359)
-#    Time: 100 us  Iteration: 0  Instance: /Threebit_BCD_counter_vlg_vec_tst/tb_out
+# Loading timing data from ClockandTimers_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /counter_max10_vlg_vec_tst File: ClockandTimers.vt
+# Simulation passed !
+# ** Note: $finish    : ClockandTimers.vt(232)
+#    Time: 1 us  Iteration: 0  Instance: /counter_max10_vlg_vec_tst/tb_out

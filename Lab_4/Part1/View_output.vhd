@@ -25,9 +25,9 @@ alias mid_hex1:unsigned(3 downto 0) is mid_12bit_result(7 downto 4);
 alias mid_hex2:unsigned(3 downto 0) is mid_12bit_result(11 downto 8);
 begin
 	Synthesis:Threebit_BCD_counter port map(clk,reset,mid_12bit_result);
-	hex0_out(0)<='0';
-	hex1_out(0)<='0';
-	hex2_out(0)<='0';
+	hex0_out(0)<='1';
+	hex1_out(0)<='1';
+	hex2_out(0)<='1';
 	hex0_display:Segment7Decoder port map(bit_vector(mid_hex0),hex0_out(7 downto 1));
 	hex1_display:Segment7Decoder port map(bit_vector(mid_hex1),hex1_out(7 downto 1));
 	hex2_display:Segment7Decoder port map(bit_vector(mid_hex2),hex2_out(7 downto 1));

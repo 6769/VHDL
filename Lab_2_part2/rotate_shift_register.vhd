@@ -14,7 +14,10 @@ entity rotate_shift_register is
 end entity rotate_shift_register;
 
 architecture realize of rotate_shift_register is
-	
+--component clock_second
+--		port(clk:in bit ;
+--		second:buffer bit);
+--end
 begin
 	
 	process(reset,clk)
