@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_4\Part2\simulation\modelsim
+Eh24_min60_sec60
+Z1 w1450343203
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+Z4 dG:\Programe\FPGA\Lab_4\Part2\simulation\modelsim
+Z5 8G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd
+Z6 FG:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd
+l0
+L4
+VJTTY3c=^nF71EUAIb3D]T2
+!s100 EXelBHBmPDE`FAQ6mP[^;0
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1450344689.815000
+Z9 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd|
+Z10 !s107 G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Abehavior
+R2
+R3
+DEx4 work 15 h24_min60_sec60 0 22 JTTY3c=^nF71EUAIb3D]T2
+l23
+L10
+Vk6izGLK`gemLFaih54dDd1
+!s100 A0e_AX=]MReQ_:gm4]a9`1
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12

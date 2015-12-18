@@ -8,7 +8,7 @@ Z1 !s100 UDHogX9fQHz16a]UmA6Q:2
 Z2 Ie[WaL?]Y3^3eMOBKfO^]Z2
 Z3 V:Ml4f4Q6QB7_RAM[SFXX_2
 Z4 dG:\Programe\FPGA\Lab_1\simulation\qsim
-Z5 w1449320952
+Z5 w1450344234
 Z6 8NumberAnDisplay.vo
 Z7 FNumberAnDisplay.vo
 L0 31
@@ -20,7 +20,7 @@ Z10 o-work work -O0
 Z11 n@number@an@display
 !i10b 1
 !s85 0
-Z12 !s108 1449320954.597000
+Z12 !s108 1450344238.708000
 Z13 !s107 NumberAnDisplay.vo|
 !s101 -O0
 vNumberAnDisplay_vlg_check_tst
@@ -29,7 +29,7 @@ Z14 !s100 beLjO38Q8G<EYF:f2iY`g2
 Z15 IooXe1ghJOiCId@]CTHR?12
 Z16 VF409g5HZFnGk0=EQONAZR3
 R4
-Z17 w1449320951
+Z17 w1450344233
 Z18 8NumberAnDisplay.vt
 Z19 FNumberAnDisplay.vt
 L0 57
@@ -37,7 +37,7 @@ R8
 r1
 !s85 0
 31
-Z20 !s108 1449320955.047000
+Z20 !s108 1450344239.118000
 Z21 !s107 NumberAnDisplay.vt|
 Z22 !s90 -work|work|NumberAnDisplay.vt|
 !s101 -O0
