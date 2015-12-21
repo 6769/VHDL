@@ -38,7 +38,7 @@
 
 set_global_assignment -name FAMILY "Cyclone II"
 set_global_assignment -name DEVICE EP2C70F896C6
-set_global_assignment -name TOP_LEVEL_ENTITY clock_second
+set_global_assignment -name TOP_LEVEL_ENTITY H24_Min60_Sec60_v2
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION "13.0 SP1"
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "19:26:04  DECEMBER 15, 2015"
 set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
@@ -50,10 +50,15 @@ set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
 set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
 set_global_assignment -name VHDL_FILE clock_second.vhd
 set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
-set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
-set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
-set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
 set_location_assignment PIN_AJ6 -to second
 set_location_assignment PIN_D16 -to clk
 set_global_assignment -name CDF_FILE output_files/Chain1.cdf
+set_global_assignment -name VHDL_FILE H24_Min60_Sec60_v2.vhd
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_for_H24_M60_S60.vwf
+set_global_assignment -name SIMULATION_MODE TIMING
+set_global_assignment -name VECTOR_OUTPUT_FORMAT VWF
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_4/Part0/Waveform_for_H24_M60_S60.vwf"

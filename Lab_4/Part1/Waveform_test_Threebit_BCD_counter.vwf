@@ -1,3 +1,4 @@
+/* Simulator = ModelSim */
 /*
 WARNING: Do NOT edit the input and output ports in this file in a text
 editor if you plan to continue editing the block that represents it in
@@ -25,7 +26,7 @@ HEADER
 	VERSION = 1;
 	TIME_UNIT = ns;
 	DATA_OFFSET = 0.0;
-	DATA_DURATION = 100000.0;
+	DATA_DURATION = 10000.0;
 	SIMULATION_TIME = 0.0;
 	GRID_PHASE = 0.0;
 	GRID_PERIOD = 10.0;
@@ -189,7 +190,7 @@ TRANSITION_LIST("clk")
 		REPEAT = 1;
 		NODE
 		{
-			REPEAT = 5000;
+			REPEAT = 500;
 			LEVEL 0 FOR 10.0;
 			LEVEL 1 FOR 10.0;
 		}
@@ -202,7 +203,7 @@ TRANSITION_LIST("reset")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 280.0;
-		LEVEL 1 FOR 99720.0;
+		LEVEL 1 FOR 9720.0;
 	}
 }
 
@@ -211,8 +212,7 @@ TRANSITION_LIST("Counter_Result[11]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -221,8 +221,7 @@ TRANSITION_LIST("Counter_Result[10]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -231,8 +230,7 @@ TRANSITION_LIST("Counter_Result[9]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -241,8 +239,7 @@ TRANSITION_LIST("Counter_Result[8]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -251,8 +248,7 @@ TRANSITION_LIST("Counter_Result[7]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -261,8 +257,7 @@ TRANSITION_LIST("Counter_Result[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -271,8 +266,7 @@ TRANSITION_LIST("Counter_Result[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -281,8 +275,7 @@ TRANSITION_LIST("Counter_Result[4]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -291,8 +284,7 @@ TRANSITION_LIST("Counter_Result[3]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -301,8 +293,7 @@ TRANSITION_LIST("Counter_Result[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -311,8 +302,7 @@ TRANSITION_LIST("Counter_Result[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 
@@ -321,8 +311,7 @@ TRANSITION_LIST("Counter_Result[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 999.0;
-		LEVEL 0 FOR 99001.0;
+		LEVEL X FOR 10000.0;
 	}
 }
 

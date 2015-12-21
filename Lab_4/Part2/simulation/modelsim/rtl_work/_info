@@ -3,38 +3,143 @@ K3
 13
 cModel Technology
 Z0 dG:\Programe\FPGA\Lab_4\Part2\simulation\modelsim
-Eh24_min60_sec60
-Z1 w1450343203
+Eclock_signal_per_second
+Z1 w1450425789
 Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z3 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
 Z4 dG:\Programe\FPGA\Lab_4\Part2\simulation\modelsim
-Z5 8G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd
-Z6 FG:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd
+Z5 8G:/Programe/FPGA/Lab_4/Part2/clock_signal_per_second.vhd
+Z6 FG:/Programe/FPGA/Lab_4/Part2/clock_signal_per_second.vhd
 l0
 L4
-VJTTY3c=^nF71EUAIb3D]T2
-!s100 EXelBHBmPDE`FAQ6mP[^;0
+VMYkXK=z[[:K^?96ei=GTC0
 Z7 OV;C;10.1d;51
 31
-!i10b 1
-Z8 !s108 1450344689.815000
-Z9 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd|
-Z10 !s107 G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60.vhd|
+Z8 !s108 1450426373.988000
+Z9 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_4/Part2/clock_signal_per_second.vhd|
+Z10 !s107 G:/Programe/FPGA/Lab_4/Part2/clock_signal_per_second.vhd|
 Z11 o-93 -work work -O0
 Z12 tExplicit 1
+!s100 4O>6Yj^1mHzkDU4FTafim0
+!i10b 1
 Abehavior
 R2
 R3
-DEx4 work 15 h24_min60_sec60 0 22 JTTY3c=^nF71EUAIb3D]T2
-l23
+DEx4 work 23 clock_signal_per_second 0 22 MYkXK=z[[:K^?96ei=GTC0
+l13
 L10
-Vk6izGLK`gemLFaih54dDd1
-!s100 A0e_AX=]MReQ_:gm4]a9`1
+VT;gL<faNZ>`f4U9RPNbGJ2
 R7
 31
-!i10b 1
 R8
 R9
 R10
+R11
+R12
+!s100 NAjG4VM=CLZk0UcR3C>`]1
+!i10b 1
+Eh24_min60_sec60_v2
+Z13 w1450425015
+R2
+R3
+R4
+Z14 8G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60_v2.vhd
+Z15 FG:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60_v2.vhd
+l0
+L4
+Vd<7OMo6AHTTb8dcA<RT2;0
+R7
+31
+Z16 !s108 1450426373.728000
+Z17 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60_v2.vhd|
+Z18 !s107 G:/Programe/FPGA/Lab_4/Part2/H24_Min60_Sec60_v2.vhd|
+R11
+R12
+!s100 @1=KOVQPeGX6zQQQ3::T_3
+!i10b 1
+Abehavior
+R2
+R3
+DEx4 work 18 h24_min60_sec60_v2 0 22 d<7OMo6AHTTb8dcA<RT2;0
+l24
+L10
+VM8;1ljZg<3[Kb@0VVaRXQ0
+R7
+31
+R16
+R17
+R18
+R11
+R12
+!s100 72:4RzSnonn:N<`Vk?Q8W0
+!i10b 1
+Esegment7decoder
+Z19 w1450425837
+R2
+R3
+R4
+Z20 8G:/Programe/FPGA/Lab_4/Part2/Segment7Decoder.vhd
+Z21 FG:/Programe/FPGA/Lab_4/Part2/Segment7Decoder.vhd
+l0
+L4
+V6_<CS?h?I09jY:ZkaZYj33
+R7
+31
+Z22 !s108 1450426374.268000
+Z23 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_4/Part2/Segment7Decoder.vhd|
+Z24 !s107 G:/Programe/FPGA/Lab_4/Part2/Segment7Decoder.vhd|
+R11
+R12
+!s100 W0TPP`WLKzAFJcz_Kbnz82
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 15 segment7decoder 0 22 6_<CS?h?I09jY:ZkaZYj33
+l12
+L10
+VZZdJo[N4Y;Zz8C7b1OmGe3
+R7
+31
+R22
+R23
+R24
+R11
+R12
+!s100 a47k4N`hRz5I2AejNdgA53
+!i10b 1
+Eview
+Z25 w1450426157
+R2
+R3
+R4
+Z26 8G:/Programe/FPGA/Lab_4/Part2/View.vhd
+Z27 FG:/Programe/FPGA/Lab_4/Part2/View.vhd
+l0
+L4
+VNd?DJY>ZP5[>S[PLCAzTK2
+!s100 P]4Ha:oOTSgcZ19K_zSdd2
+R7
+31
+!i10b 1
+Z28 !s108 1450426374.718000
+Z29 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_4/Part2/View.vhd|
+Z30 !s107 G:/Programe/FPGA/Lab_4/Part2/View.vhd|
+R11
+R12
+Abehave
+R2
+R3
+DEx4 work 4 view 0 22 Nd?DJY>ZP5[>S[PLCAzTK2
+l34
+L10
+V[XEADHfWJJ89MBI@L?7gG3
+!s100 :[:SBjoO_Nc]Fc40ogL<E2
+R7
+31
+!i10b 1
+R28
+R29
+R30
 R11
 R12

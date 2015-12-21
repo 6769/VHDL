@@ -1,5 +1,5 @@
 # Reading H:/altera/13.0sp1/modelsim_ae/tcl/vsim/pref.tcl 
-# do Clock_run_msim_gate_vhdl.do 
+# do test_run_msim_gate_vhdl.do 
 # if {[file exists gate_work]} {
 # 	vdel -lib gate_work -all
 # }
@@ -10,7 +10,7 @@
 # ** Warning: Copied H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini.
 #          Updated modelsim.ini.
 # 
-# vcom -93 -work work {Clock.vho}
+# vcom -93 -work work {test.vho}
 # Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -19,44 +19,11 @@
 # -- Loading package VITAL_Primitives
 # -- Loading package cycloneii_atom_pack
 # -- Loading package cycloneii_components
-# -- Compiling entity View
-# -- Compiling architecture structure of View
+# -- Compiling entity H24_Min60_Sec60_v2
+# -- Compiling architecture structure of H24_Min60_Sec60_v2
 # 
-vcom -reportprogress 300 -work work G:/Programe/FPGA/Lab_4/Part2/simulation/modelsim/Clock.vho
-# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package VITAL_Timing
-# -- Loading package VITAL_Primitives
-# -- Loading package cycloneii_atom_pack
-# -- Loading package cycloneii_components
-# -- Compiling entity View
-# -- Compiling architecture structure of View
-vcom -reportprogress 300 -work work G:/Programe/FPGA/Lab_4/Part2/simulation/modelsim/Clock_fast.vho
-# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package VITAL_Timing
-# -- Loading package VITAL_Primitives
-# -- Loading package cycloneii_atom_pack
-# -- Loading package cycloneii_components
-# -- Compiling entity View
-# -- Compiling architecture structure of View
-vcom -reportprogress 300 -work work G:/Programe/FPGA/Lab_4/Part2/simulation/modelsim/Clock.vho
-# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package VITAL_Timing
-# -- Loading package VITAL_Primitives
-# -- Loading package cycloneii_atom_pack
-# -- Loading package cycloneii_components
-# -- Compiling entity View
-# -- Compiling architecture structure of View
-vsim gate_work.view(structure)
-# vsim gate_work.view(structure) 
+vsim gate_work.h24_min60_sec60_v2
+# vsim gate_work.h24_min60_sec60_v2 
 # //  ModelSim ALTERA 10.1d Nov  2 2012 
 # //
 # //  Copyright 1991-2012 Mentor Graphics Corporation
@@ -73,7 +40,7 @@ vsim gate_work.view(structure)
 # Loading ieee.vital_primitives(body)
 # Loading cycloneii.cycloneii_atom_pack(body)
 # Loading cycloneii.cycloneii_components
-# Loading gate_work.view(structure)
+# Loading gate_work.h24_min60_sec60_v2(structure)
 # Loading cycloneii.cycloneii_lcell_ff(vital_lcell_ff)
 # Loading cycloneii.cycloneii_and1(altvital)
 # Loading cycloneii.cycloneii_lcell_comb(vital_lcell_comb)
@@ -84,3 +51,9 @@ vsim gate_work.view(structure)
 # Loading cycloneii.cycloneii_asynch_io(behave)
 # Loading cycloneii.cycloneii_clkctrl(vital_clkctrl)
 # Loading cycloneii.cycloneii_ena_reg(behave)
+add wave -position end  sim:/h24_min60_sec60_v2/Clk
+add wave -position end  sim:/h24_min60_sec60_v2/Din
+add wave -position end  sim:/h24_min60_sec60_v2/Ldn
+add wave -position end  sim:/h24_min60_sec60_v2/Reset
+add wave -position end  sim:/h24_min60_sec60_v2/Qout
+do G:/Programe/FPGA/Lab_4/Part0/simulation/modelsim/test_gate_level.do

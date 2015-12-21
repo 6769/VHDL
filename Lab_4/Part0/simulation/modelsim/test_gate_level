@@ -1,0 +1,12 @@
+force Clk 0 0ns ,1 10ns -repeat 20ns
+force Din(0) 1 -deposit
+force Din(1) 1 -deposit
+force Din(4) 1 -deposit
+force Din(5) 1 -deposit
+force Ldn 0 -deposit
+force Reset 0 -deposit
+run 40 ns
+force Reset 1 -deposit
+run 40 ns
+force Ldn 1 -deposit
+run 120 ns

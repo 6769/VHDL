@@ -16,7 +16,7 @@ begin
 	begin
 
 		wait until clk'event and clk='1';
-		if counter_for_osc_signal < 25*1000*1000 
+		if counter_for_osc_signal < 25--*1000*1000 
 			then 
 			counter_for_osc_signal<=counter_for_osc_signal+1;
 			else counter_for_osc_signal<=(others=>'0');

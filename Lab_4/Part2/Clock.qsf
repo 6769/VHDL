@@ -38,7 +38,7 @@
 
 set_global_assignment -name FAMILY "Cyclone II"
 set_global_assignment -name DEVICE EP2C70F896C6
-set_global_assignment -name TOP_LEVEL_ENTITY H24_Min60_Sec60
+set_global_assignment -name TOP_LEVEL_ENTITY View
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION "13.0 SP1"
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "16:41:10  DECEMBER 17, 2015"
 set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
@@ -48,10 +48,6 @@ set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
 set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
 set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
 set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
-set_global_assignment -name VHDL_FILE H24_Min60_Sec60.vhd
-set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
-set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
-set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
 set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_H24_Min60_Sec60.vwf
 set_global_assignment -name SIMULATION_MODE FUNCTIONAL
 set_global_assignment -name VECTOR_OUTPUT_FORMAT VWF
@@ -59,5 +55,80 @@ set_global_assignment -name TIMEQUEST_MULTICORNER_ANALYSIS ON
 set_global_assignment -name SMART_RECOMPILE ON
 set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
 set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
-set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_global_assignment -name VHDL_FILE H24_Min60_Sec60_v2.vhd -hdl_version VHDL_1993
+set_global_assignment -name VHDL_FILE clock_signal_per_second.vhd
 set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_4/Part2/Waveform_test_H24_Min60_Sec60.vwf"
+set_global_assignment -name VHDL_FILE Segment7Decoder.vhd
+set_global_assignment -name VHDL_FILE View.vhd
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_AD12 -to hex0[7]
+set_location_assignment PIN_AD11 -to hex0[6]
+set_location_assignment PIN_AF10 -to hex0[5]
+set_location_assignment PIN_AD10 -to hex0[4]
+set_location_assignment PIN_AH9 -to hex0[3]
+set_location_assignment PIN_AF9 -to hex0[2]
+set_location_assignment PIN_AE8 -to hex0[1]
+set_location_assignment PIN_AF12 -to hex0[0]
+set_location_assignment PIN_AD17 -to hex1[7]
+set_location_assignment PIN_AF17 -to hex1[6]
+set_location_assignment PIN_AE17 -to hex1[5]
+set_location_assignment PIN_AG16 -to hex1[4]
+set_location_assignment PIN_AF16 -to hex1[3]
+set_location_assignment PIN_AE16 -to hex1[2]
+set_location_assignment PIN_AG13 -to hex1[1]
+set_location_assignment PIN_AC17 -to hex1[0]
+set_location_assignment PIN_AE19 -to hex2[7]
+set_location_assignment PIN_AB19 -to hex2[6]
+set_location_assignment PIN_AB18 -to hex2[5]
+set_location_assignment PIN_AG4 -to hex2[4]
+set_location_assignment PIN_AH5 -to hex2[3]
+set_location_assignment PIN_AF7 -to hex2[2]
+set_location_assignment PIN_AE7 -to hex2[1]
+set_location_assignment PIN_AC19 -to hex2[0]
+set_location_assignment PIN_M6 -to hex3[7]
+set_location_assignment PIN_M7 -to hex3[6]
+set_location_assignment PIN_M8 -to hex3[5]
+set_location_assignment PIN_N7 -to hex3[4]
+set_location_assignment PIN_N10 -to hex3[3]
+set_location_assignment PIN_P4 -to hex3[2]
+set_location_assignment PIN_P6 -to hex3[1]
+set_location_assignment PIN_M4 -to hex3[0]
+set_location_assignment PIN_M2 -to hex4[7]
+set_location_assignment PIN_M1 -to hex4[6]
+set_location_assignment PIN_N3 -to hex4[5]
+set_location_assignment PIN_N2 -to hex4[4]
+set_location_assignment PIN_P3 -to hex4[3]
+set_location_assignment PIN_P2 -to hex4[2]
+set_location_assignment PIN_P1 -to hex4[1]
+set_location_assignment PIN_L6 -to hex4[0]
+set_location_assignment PIN_K5 -to hex5[7]
+set_location_assignment PIN_K4 -to hex5[6]
+set_location_assignment PIN_K1 -to hex5[5]
+set_location_assignment PIN_L3 -to hex5[4]
+set_location_assignment PIN_L2 -to hex5[3]
+set_location_assignment PIN_L1 -to hex5[2]
+set_location_assignment PIN_M3 -to hex5[1]
+set_location_assignment PIN_K6 -to hex5[0]
+set_location_assignment PIN_AD15 -to Clk_original
+set_location_assignment PIN_T29 -to Ldn
+set_location_assignment PIN_T28 -to Reset
+set_location_assignment PIN_AA23 -to Din[0]
+set_location_assignment PIN_AB26 -to Din[1]
+set_location_assignment PIN_AB25 -to Din[2]
+set_location_assignment PIN_AC27 -to Din[3]
+set_location_assignment PIN_AC26 -to Din[4]
+set_location_assignment PIN_AC24 -to Din[5]
+set_location_assignment PIN_AC23 -to Din[6]
+set_location_assignment PIN_L8 -to Din[7]
+set_location_assignment PIN_AD24 -to Din[8]
+set_location_assignment PIN_AE27 -to Din[9]
+set_location_assignment PIN_W5 -to Din[10]
+set_location_assignment PIN_V10 -to Din[11]
+set_location_assignment PIN_U9 -to Din[12]
+set_location_assignment PIN_T9 -to Din[13]
+set_location_assignment PIN_L5 -to Din[14]
+set_location_assignment PIN_L4 -to Din[15]
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
