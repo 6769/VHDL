@@ -9,7 +9,7 @@ end entity clock_signal_per_second;
 
 architecture behavior of clock_signal_per_second is
 signal counter_for_osc_signal:unsigned(31 downto 0);
-constant Terminator:integer:=25000000;--25*1000*1000
+constant Terminator:integer:=2500000;--25*1000*1000
 begin
     process
     begin

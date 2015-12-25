@@ -113,8 +113,8 @@ set_location_assignment PIN_L1 -to hex5[2]
 set_location_assignment PIN_M3 -to hex5[1]
 set_location_assignment PIN_K6 -to hex5[0]
 set_location_assignment PIN_AD15 -to Clk_original
-set_location_assignment PIN_T29 -to Ldn
-set_location_assignment PIN_T28 -to Reset
+set_location_assignment PIN_T29 -to Ldn -comment iKEY[0]
+set_location_assignment PIN_T28 -to Reset -comment iKEY[1]
 set_location_assignment PIN_AA23 -to Din[0]
 set_location_assignment PIN_AB26 -to Din[1]
 set_location_assignment PIN_AB25 -to Din[2]

@@ -1,0 +1,168 @@
+m255
+K3
+13
+cModel Technology
+dH:\altera\13.0sp1
+Eadder
+Z0 w1450970838
+Z1 dG:\Programe\FPGA\Lab_5\Modelsim
+Z2 8G:/Programe/FPGA/Lab_5/Modelsim/Adder.vhd
+Z3 FG:/Programe/FPGA/Lab_5/Modelsim/Adder.vhd
+l0
+L2
+VG[?AhPoQ2k9XRSUECoJIm3
+Z4 OV;C;10.1d;51
+32
+Z5 !s108 1451021731.502000
+Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/Adder.vhd|
+Z7 !s107 G:/Programe/FPGA/Lab_5/Modelsim/Adder.vhd|
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+!s100 L]=ha?Y7oPAJKJ>8K9;[E1
+!i10b 1
+Abehavior
+DEx4 work 5 adder 0 22 G[?AhPoQ2k9XRSUECoJIm3
+l7
+L6
+VUAX7n9S^lBio@A@S9jS6m0
+R4
+32
+R5
+R6
+R7
+R8
+R9
+!s100 XIXA4@O4P;M?>aQR2zh2<0
+!i10b 1
+Ecounter1to6
+Z10 w1451021492
+R1
+Z11 8G:/Programe/FPGA/Lab_5/Modelsim/Counter1to6.vhd
+Z12 FG:/Programe/FPGA/Lab_5/Modelsim/Counter1to6.vhd
+l0
+L1
+V@aj9:J8abIH=MccjJB52R1
+R4
+32
+Z13 !s108 1451021731.054000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/Counter1to6.vhd|
+Z15 !s107 G:/Programe/FPGA/Lab_5/Modelsim/Counter1to6.vhd|
+R8
+R9
+!s100 LD]]RWFVfOn2YgNX1cCII3
+!i10b 1
+Acountinternal
+DEx4 work 11 counter1to6 0 22 @aj9:J8abIH=MccjJB52R1
+l9
+L7
+V5XT3@5VQBPG>_X`nNXPh?2
+R4
+32
+R13
+R14
+R15
+R8
+R9
+!s100 9kOJBb?7fecf^zHXngONO0
+!i10b 1
+Edicegame_controller
+Z16 w1450967336
+R1
+Z17 8G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd
+Z18 FG:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd
+l0
+L1
+Vbn_]U6RIYg7ag7J5f_a0]1
+!s100 5NmC:XP7RzWNYRhFPaZz?1
+R4
+32
+!i10b 1
+Z19 !s108 1451021732.733000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd|
+Z21 !s107 G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd|
+R8
+R9
+Adicebehave
+Z22 DEx4 work 19 dicegame_controller 0 22 bn_]U6RIYg7ag7J5f_a0]1
+l11
+L7
+Z23 VBXGVL]?]Y9LBH`DV:j=[82
+Z24 !s100 ?P[fQ;H`QjE2?zOz:]@jQ3
+R4
+32
+!i10b 1
+R19
+R20
+R21
+R8
+R9
+Esegment7decoder
+Z25 w1450425837
+Z26 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z27 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+R1
+Z28 8G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd
+Z29 FG:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd
+l0
+L4
+V=2<OO6caobH9ALH^Dff:T2
+R4
+32
+Z30 !s108 1451021732.026000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd|
+Z32 !s107 G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd|
+R8
+R9
+!s100 W0TPP`WLKzAFJcz_Kbnz82
+!i10b 1
+Abehavioral
+R26
+R27
+DEx4 work 15 segment7decoder 0 22 =2<OO6caobH9ALH^Dff:T2
+l12
+L10
+VHj@bkcU1zoNagc_ELLl^@1
+R4
+32
+R30
+R31
+R32
+R8
+R9
+!s100 a47k4N`hRz5I2AejNdgA53
+!i10b 1
+Eview
+Z33 w1451021725
+R26
+R27
+R1
+Z34 8G:/Programe/FPGA/Lab_5/Modelsim/View.vhd
+Z35 FG:/Programe/FPGA/Lab_5/Modelsim/View.vhd
+l0
+L4
+ViKkSCRU>bg?z6oF=aV:ld3
+R4
+32
+Z36 !s108 1451021732.290000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/View.vhd|
+Z38 !s107 G:/Programe/FPGA/Lab_5/Modelsim/View.vhd|
+R8
+R9
+!s100 ijdd9VC0oNF;i?HHdhZ<=1
+!i10b 1
+Acombination
+R26
+R27
+DEx4 work 4 view 0 22 iKkSCRU>bg?z6oF=aV:ld3
+l40
+L11
+V@YVLXU9a@d_LQAZa^08Gc1
+R4
+32
+R36
+R37
+R38
+R8
+R9
+!s100 fSha@5jFcn3ieVaPD_<OT2
+!i10b 1

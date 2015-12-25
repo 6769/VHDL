@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\simulation\qsim
+vView
+Z1 I[BKbkFEmcQ3M1_HP`=lHE0
+Z2 VK3agd;GZXd^gkJ]3zCM?41
+Z3 dG:\Programe\FPGA\Lab_5\simulation\qsim
+Z4 w1450972133
+Z5 8DiceGame.vo
+Z6 FDiceGame.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|DiceGame.vo|
+Z9 o-work work -O0
+Z10 n@view
+!i10b 1
+Z11 !s100 S;DWW;K`m[ZGb]S6g7ohO0
+!s85 0
+Z12 !s108 1450972136.221000
+Z13 !s107 DiceGame.vo|
+!s101 -O0
+vView_vlg_check_tst
+!i10b 1
+Z14 !s100 JY:jokjA`IB;>O69C=e^20
+Z15 ITLU4]l:9KK<Wh;J8Xokl51
+Z16 Vg<MN=DlgQi1Yj]fY4L6Y83
+R3
+Z17 w1450972132
+Z18 8DiceGame.vt
+Z19 FDiceGame.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1450972136.621000
+Z21 !s107 DiceGame.vt|
+Z22 !s90 -work|work|DiceGame.vt|
+!s101 -O0
+R9
+Z23 n@view_vlg_check_tst
+vView_vlg_sample_tst
+!i10b 1
+Z24 !s100 Ko?4;@27XG9a3S2K1dKUa3
+Z25 If:khN2HHkUe^^@6bCoXBY2
+Z26 VVT]Czf<b[NmDgDA>=;;4`2
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@view_vlg_sample_tst
+vView_vlg_vec_tst
+!i10b 1
+Z28 !s100 T`S;2g3gTlCC4EJof;8?12
+Z29 IW9^<=>maZBiWRQbW[=jbS3
+Z30 VG246GV3l4gdo[Nkj_Vg1f0
+R3
+R17
+R18
+R19
+Z31 L0 487
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@view_vlg_vec_tst

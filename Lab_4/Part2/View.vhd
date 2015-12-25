@@ -32,11 +32,12 @@ signal Q:unsigned(23 downto 0);
     alias Hour_low:  unsigned(3 downto 0) is Q(19 downto 16);
     alias Hour_hig:  unsigned(3 downto 0) is Q(23 downto 20);
 begin
+	--point. Hour.Mins.Second 
 	hex0(0)<='1';
 	hex1(0)<='1';
-	hex2(0)<='1';
+	hex2(0)<='0';
 	hex3(0)<='1';
-	hex4(0)<='1';
+	hex4(0)<='0';
 	hex5(0)<='1';
 	High50Mhz:clock_signal_per_second port map(Clk_original,mid_second);
 	Core:H24_Min60_Sec60_v2 port map(mid_second,Ldn,Reset,Din,Q);

@@ -1,0 +1,6 @@
+force Reset 1 -deposit
+force Rb 1 -deposit
+force CLK 0 0ns,1 10ns -repeat 20ns
+run 100 ns
+force Rb 0 -deposit
+run 100 ns
