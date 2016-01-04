@@ -68,101 +68,132 @@ R9
 Edicegame_controller
 Z16 w1450967336
 R1
-Z17 8G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd
-Z18 FG:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd
+Z17 8G:\Programe\FPGA\Lab_5\Modelsim\DiceGame_controller.vhd
+Z18 FG:\Programe\FPGA\Lab_5\Modelsim\DiceGame_controller.vhd
 l0
 L1
 Vbn_]U6RIYg7ag7J5f_a0]1
-!s100 5NmC:XP7RzWNYRhFPaZz?1
 R4
 32
-!i10b 1
-Z19 !s108 1451021732.733000
-Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd|
-Z21 !s107 G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd|
+Z19 !s108 1451027354.770000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_5\Modelsim\DiceGame_controller.vhd|
+Z21 !s107 G:\Programe\FPGA\Lab_5\Modelsim\DiceGame_controller.vhd|
 R8
 R9
+!s100 5NmC:XP7RzWNYRhFPaZz?1
+!i10b 1
 Adicebehave
-Z22 DEx4 work 19 dicegame_controller 0 22 bn_]U6RIYg7ag7J5f_a0]1
+DEx4 work 19 dicegame_controller 0 22 bn_]U6RIYg7ag7J5f_a0]1
 l11
 L7
-Z23 VBXGVL]?]Y9LBH`DV:j=[82
-Z24 !s100 ?P[fQ;H`QjE2?zOz:]@jQ3
+VBXGVL]?]Y9LBH`DV:j=[82
+!s100 ?P[fQ;H`QjE2?zOz:]@jQ3
 R4
 32
-!i10b 1
 R19
 R20
 R21
 R8
 R9
-Esegment7decoder
-Z25 w1450425837
-Z26 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
-Z27 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+!i10b 1
+Eroll_sum
+Z22 w1451027134
 R1
-Z28 8G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd
-Z29 FG:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd
+Z23 8G:/Programe/FPGA/Lab_5/Modelsim/Roll_Sum.vhd
+Z24 FG:/Programe/FPGA/Lab_5/Modelsim/Roll_Sum.vhd
+l0
+L1
+VV:Ohc=XH>baZSgcbW7dm73
+!s100 V=31MZU:YZO9`;JMgV^o90
+R4
+32
+!i10b 1
+Z25 !s108 1451027354.950000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/Roll_Sum.vhd|
+Z27 !s107 G:/Programe/FPGA/Lab_5/Modelsim/Roll_Sum.vhd|
+R8
+R9
+Abehavior
+Z28 DEx4 work 8 roll_sum 0 22 V:Ohc=XH>baZSgcbW7dm73
+l11
+L8
+V[[^KVCXneX^L=zFHK?G^?2
+!s100 2TQi6W@z1Z:Ogo>6mkVIz2
+R4
+32
+!i10b 1
+R25
+R26
+R27
+R8
+R9
+Esegment7decoder
+Z29 w1450425837
+Z30 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z31 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+R1
+Z32 8G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd
+Z33 FG:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd
 l0
 L4
 V=2<OO6caobH9ALH^Dff:T2
 R4
 32
-Z30 !s108 1451021732.026000
-Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd|
-Z32 !s107 G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd|
+Z34 !s108 1451027354.080000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd|
+Z36 !s107 G:/Programe/FPGA/Lab_5/Modelsim/Segment7Decoder.vhd|
 R8
 R9
 !s100 W0TPP`WLKzAFJcz_Kbnz82
 !i10b 1
 Abehavioral
-R26
-R27
+R30
+R31
 DEx4 work 15 segment7decoder 0 22 =2<OO6caobH9ALH^Dff:T2
 l12
 L10
 VHj@bkcU1zoNagc_ELLl^@1
 R4
 32
-R30
-R31
-R32
+R34
+R35
+R36
 R8
 R9
 !s100 a47k4N`hRz5I2AejNdgA53
 !i10b 1
 Eview
-Z33 w1451021725
-R26
-R27
+Z37 w1451024265
+R30
+R31
 R1
-Z34 8G:/Programe/FPGA/Lab_5/Modelsim/View.vhd
-Z35 FG:/Programe/FPGA/Lab_5/Modelsim/View.vhd
+Z38 8G:/Programe/FPGA/Lab_5/Modelsim/View.vhd
+Z39 FG:/Programe/FPGA/Lab_5/Modelsim/View.vhd
 l0
 L4
 ViKkSCRU>bg?z6oF=aV:ld3
 R4
 32
-Z36 !s108 1451021732.290000
-Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/View.vhd|
-Z38 !s107 G:/Programe/FPGA/Lab_5/Modelsim/View.vhd|
+Z40 !s108 1451027354.560000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Programe/FPGA/Lab_5/Modelsim/View.vhd|
+Z42 !s107 G:/Programe/FPGA/Lab_5/Modelsim/View.vhd|
 R8
 R9
-!s100 ijdd9VC0oNF;i?HHdhZ<=1
+!s100 `QP<YXN?[]Goj?G@Fa7gb0
 !i10b 1
 Acombination
-R26
-R27
+R30
+R31
 DEx4 work 4 view 0 22 iKkSCRU>bg?z6oF=aV:ld3
-l40
-L11
-V@YVLXU9a@d_LQAZa^08Gc1
+l50
+L13
+V?S>in;8jh8J1T3jRWGz7I1
 R4
 32
-R36
-R37
-R38
+R40
+R41
+R42
 R8
 R9
-!s100 fSha@5jFcn3ieVaPD_<OT2
+!s100 :PalX6e5KF:PNG=X9FPUm2
 !i10b 1

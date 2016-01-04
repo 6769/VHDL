@@ -48,16 +48,45 @@ set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
 set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
 set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (Verilog)"
 set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda_simulation
+set_global_assignment -name SIMULATION_MODE FUNCTIONAL
+set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST ON -section_id eda_simulation
+set_global_assignment -name VECTOR_OUTPUT_FORMAT VWF
+set_global_assignment -name EDA_TIME_SCALE "1 ps" -section_id eda_simulation
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_AD15 -to CLK
+set_location_assignment PIN_AE8 -to hex0[1]
+set_location_assignment PIN_AF9 -to hex0[2]
+set_location_assignment PIN_AH9 -to hex0[3]
+set_location_assignment PIN_AD10 -to hex0[4]
+set_location_assignment PIN_AF10 -to hex0[5]
+set_location_assignment PIN_AD11 -to hex0[6]
+set_location_assignment PIN_AD12 -to hex0[7]
+set_location_assignment PIN_AF12 -to hex0[0]
+set_location_assignment PIN_AG13 -to hex1[1]
+set_location_assignment PIN_AE16 -to hex1[2]
+set_location_assignment PIN_AF16 -to hex1[3]
+set_location_assignment PIN_AG16 -to hex1[4]
+set_location_assignment PIN_AE17 -to hex1[5]
+set_location_assignment PIN_AF17 -to hex1[6]
+set_location_assignment PIN_AD17 -to hex1[7]
+set_location_assignment PIN_AC17 -to hex1[0]
+set_location_assignment PIN_AA23 -to Rb
+set_location_assignment PIN_AB26 -to Reset
+set_location_assignment PIN_AJ6 -to Lose
+set_location_assignment PIN_W27 -to Win
+set_global_assignment -name VHDL_FILE Modelsim/clock_signal_per_second.vhd
+set_global_assignment -name VHDL_FILE Modelsim/Roll_Sum.vhd
 set_global_assignment -name VHDL_FILE Modelsim/View.vhd
-set_global_assignment -name VHDL_FILE Modelsim/Counter1to6.vhd
 set_global_assignment -name VHDL_FILE Modelsim/DiceGame_controller.vhd
 set_global_assignment -name VHDL_FILE Modelsim/Segment7Decoder.vhd
-set_global_assignment -name VHDL_FILE Modelsim/Adder.vhd
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_View.vwf
+set_global_assignment -name VHDL_FILE PointerRegister.vhd
+set_global_assignment -name VHDL_FILE Compartor.vhd
+set_global_assignment -name VHDL_FILE Controller.vhd
+set_global_assignment -name VHDL_FILE View2.vhd
+set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_5/Waveform_test_View.vwf"
 set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
 set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
-set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform_test_View.vwf
-set_global_assignment -name SIMULATION_MODE FUNCTIONAL
-set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST ON -section_id eda_simulation
+set_global_assignment -name VHDL_FILE Controller_text_version.vhd
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
-set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "G:/Programe/FPGA/Lab_5/Waveform_test_View.vwf"

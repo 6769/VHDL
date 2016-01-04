@@ -1,0 +1,255 @@
+# Reading H:/altera/13.0sp1/modelsim_ae/tcl/vsim/pref.tcl 
+# do controller_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Compiling entity DiceGame_controller
+# -- Compiling architecture DiceGameControl of DiceGame_controller
+# 
+vsim gate_work.DiceGame_controller
+# vsim gate_work.DiceGame_controller 
+# //  ModelSim ALTERA 10.1d Nov  2 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading gate_work.DiceGame_controller
+# ** Error: (vsim-3033) controller.vo(119): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(136): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(161): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(197): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(221): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(246): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(282): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(318): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(346): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(371): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(399): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(424): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(452): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(469): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(486): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(503): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(520): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(533): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(550): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(567): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(584): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(597): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(610): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(627): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(640): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(653): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(670): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(687): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(704): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(721): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(734): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(751): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(764): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(781): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(798): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(815): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(832): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(849): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(862): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(879): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(896): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(921): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(957): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) controller.vo(993): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /DiceGame_controller
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/SingluarUnit/controller/simulation/modelsim/gate_work
+# Error loading design
+vsim work.dicegame_controller
+# vsim work.dicegame_controller 
+# Loading std.standard
+# Loading work.dicegame_controller(dicegamecontrol)

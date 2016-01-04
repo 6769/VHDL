@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\_FromSaru\lab50\simulation\modelsim
+vlab50
+!i10b 1
+!s100 45V]OODojLWjUPIeeimP;0
+ISOEGZKJkFhb9?DJEc0FCc2
+V9BmFnE4`lO?G4YOV]N]Yl2
+Z1 dG:\Programe\FPGA\Lab_5\_FromSaru\lab50\simulation\modelsim
+w1451903314
+8lab50.vo
+Flab50.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1451904971.714000
+!s107 lab50.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|lab50.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0

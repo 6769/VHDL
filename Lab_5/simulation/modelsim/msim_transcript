@@ -1,0 +1,462 @@
+# Reading H:/altera/13.0sp1/modelsim_ae/tcl/vsim/pref.tcl 
+# do DiceGame_run_msim_gate_verilog.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+. {DiceGame.vo}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module View2
+# 
+# Top level modules:
+# 	View2
+# 
+vsim gate_work.View2
+# vsim gate_work.View2 
+# //  ModelSim ALTERA 10.1d Nov  2 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading gate_work.View2
+# ** Error: (vsim-3033) DiceGame.vo(154): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(171): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(188): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(205): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(230): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(266): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(294): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(319): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(347): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(364): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(377): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(394): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(407): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(424): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(438): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(455): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(472): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(489): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(506): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(523): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(536): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(553): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(571): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(588): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(605): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(622): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(639): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(652): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(669): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(686): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(699): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(716): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(733): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(750): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(767): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(784): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(801): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(818): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(835): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(848): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(865): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(878): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(896): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(913): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(930): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(947): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(964): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(977): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(994): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1011): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1028): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1045): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1062): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1079): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1096): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1113): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1130): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1147): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1164): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1181): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1198): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1215): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1232): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1249): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1266): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1283): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1300): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1317): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1342): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1378): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1414): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1450): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1486): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1522): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1558): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1594): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1630): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1666): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1702): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1738): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1774): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1810): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1846): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1882): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1918): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) DiceGame.vo(1954): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /View2
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/simulation/modelsim/gate_work
+# Error loading design

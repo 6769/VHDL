@@ -1,0 +1,442 @@
+# Reading H:/altera/13.0sp1/modelsim_ae/tcl/vsim/pref.tcl 
+# do lab50_run_msim_gate_verilog.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied H:\altera\13.0sp1\modelsim_ae\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+. {lab50.vo}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module lab50
+# 
+# Top level modules:
+# 	lab50
+# 
+vsim gate_work.lab50
+# vsim gate_work.lab50 
+# //  ModelSim ALTERA 10.1d Nov  2 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading gate_work.lab50
+# ** Error: (vsim-3033) lab50.vo(155): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(168): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(185): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(210): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(246): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(270): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(283): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(308): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(336): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(353): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(366): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(383): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(396): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(413): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(426): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(444): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(461): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(486): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(514): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(527): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(544): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(557): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(574): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(587): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(604): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(621): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(630): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(647): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(664): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(681): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(694): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(711): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(724): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(741): Instantiation of 'cycloneii_lcell_ff' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(754): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(773): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(790): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(807): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(824): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(842): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(859): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(876): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(893): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(910): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(927): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(944): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(961): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(978): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(995): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1012): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1029): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1046): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1063): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1080): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1097): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1114): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1131): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1148): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1165): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1182): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1199): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1216): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1233): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1250): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1275): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1311): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1347): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1383): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1419): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1455): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1491): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1527): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1563): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1599): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1635): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1671): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1707): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1743): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1779): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1815): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1851): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# ** Error: (vsim-3033) lab50.vo(1887): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /lab50
+#         Searched libraries:
+#             G:/Programe/FPGA/Lab_5/_FromSaru/lab50/simulation/modelsim/gate_work
+# Error loading design

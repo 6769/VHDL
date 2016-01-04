@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\simulation\modelsim
+vView2
+!i10b 1
+!s100 zgb4b@He=2CSR5L>2KZ262
+I;8oZ@j_Fn4doIZ9<H?i`d3
+V4DW;HWRgNijCVB:j`Fl9S0
+Z1 dG:\Programe\FPGA\Lab_5\simulation\modelsim
+w1451396066
+8DiceGame.vo
+FDiceGame.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1451904933.399000
+!s107 DiceGame.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|DiceGame.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+n@view2

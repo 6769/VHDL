@@ -1,0 +1,36 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\SingluarUnit\controller\simulation\modelsim
+Edicegame_controller
+Z1 w1451044076
+Z2 dG:\Programe\FPGA\Lab_5\SingluarUnit\controller\simulation\modelsim
+Z3 8G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd
+Z4 FG:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd
+l0
+L1
+V5e?;5ZNI?6U75VHFz0;fU2
+!s100 5NmC:XP7RzWNYRhFPaZz?1
+Z5 OV;C;10.1d;51
+31
+!i10b 1
+Z6 !s108 1451046613.063000
+Z7 !s90 -reportprogress|300|-93|-work|work|G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd|
+Z8 !s107 G:/Programe/FPGA/Lab_5/Modelsim/DiceGame_controller.vhd|
+Z9 o-93 -work work -O0
+Z10 tExplicit 1
+Adicegamecontrol
+DEx4 work 19 dicegame_controller 0 22 5e?;5ZNI?6U75VHFz0;fU2
+l12
+L7
+VJP:jkR?7=bTPnZh0iSc2L2
+!s100 6U3;B_PQlYU1=YU<YKb=[1
+R5
+31
+!i10b 1
+R6
+R7
+R8
+R9
+R10

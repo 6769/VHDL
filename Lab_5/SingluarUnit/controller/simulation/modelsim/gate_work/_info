@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\SingluarUnit\controller\simulation\modelsim
+vDiceGame_controller
+!i10b 1
+!s100 QUJQ?fo48o<T]2h;>okQa1
+IzC8Bf`bXGm92o?nfE_^za3
+V;^I<oBURed:5C=dl[P1a]2
+Z1 dG:\Programe\FPGA\Lab_5\SingluarUnit\controller\simulation\modelsim
+w1451033860
+8controller.vo
+Fcontroller.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1451034453.043000
+!s107 controller.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|controller.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+n@dice@game_controller

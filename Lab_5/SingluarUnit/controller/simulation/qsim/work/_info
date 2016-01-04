@@ -1,0 +1,241 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\SingluarUnit\controller\simulation\qsim
+vcontrol
+Z1 I3i0nNIn3UIG67K?H5WjHY0
+Z2 VYkFnk38J9VW?FMSPfVg1E2
+Z3 dG:\Programe\FPGA\Lab_5\SingluarUnit\controller\simulation\qsim
+Z4 w1451912478
+Z5 8controller.vo
+Z6 Fcontroller.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|controller.vo|
+Z9 o-work work -O0
+Z10 !s100 BfjPP^c]:kTM?eAJ=@JDA1
+Z11 !s108 1451912481.926000
+Z12 !s107 controller.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_vlg_check_tst
+Z13 IinedgNXRg[TQW7?<6T6?z3
+Z14 VW0hg7f[FM6iOc3Hf5oOS`2
+R3
+Z15 w1451912477
+Z16 8controller.vt
+Z17 Fcontroller.vt
+L0 67
+R7
+r1
+31
+Z18 !s108 1451912482.136000
+Z19 !s107 controller.vt|
+Z20 !s90 -work|work|controller.vt|
+R9
+Z21 !s100 Tl^P:T`d:1H<Ok^zW=[P]1
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_vlg_sample_tst
+Z22 I8DCVSn<o84P0^>^?bBoD42
+Z23 V0fWfZ:K;B2KOY^@F9WF9;2
+R3
+R15
+R16
+R17
+L0 29
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z24 !s100 mih>26Iz_9CgT;do24]3:1
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_vlg_vec_tst
+Z25 IogY]0e]=MnDGIYAcTl7?k1
+Z26 V5NXK<oZgKCORaVm;a@7J`0
+R3
+R15
+R16
+R17
+Z27 L0 243
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z28 !s100 b3MRBNjngb43e73XZjf_i3
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z29 !s100 X8ai8>elO[Bl9RXPd1>1d0
+Z30 I<MYN<M3>?F2VOaCa?7eBC2
+Z31 Vhn8d4Mc7OKPZWJ_b]lj111
+R3
+Z32 w1451914541
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z33 n@controller
+!i10b 1
+!s85 0
+Z34 !s108 1451914549.421000
+R12
+!s101 -O0
+vController_vlg_check_tst
+!i10b 1
+Z35 !s100 ZmL[eom554]kd2F58z3>42
+Z36 I?hTh>lU2BGz;NDkiUbRQQ2
+Z37 V8NfQ9`[b[SLZO_7LTSQjQ3
+R3
+Z38 w1451914539
+R16
+R17
+L0 69
+R7
+r1
+!s85 0
+31
+Z39 !s108 1451914550.231000
+Z40 !s107 controller.vt|
+R20
+!s101 -O0
+R9
+Z41 n@controller_vlg_check_tst
+vController_vlg_sample_tst
+!i10b 1
+Z42 !s100 VPI;2:DUX0No[laIN8I>H0
+Z43 IPhj9WlLoigiR93Ec976K@2
+Z44 VolQTi[Fc3maclP<SM]zKe3
+R3
+R38
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R39
+R40
+R20
+!s101 -O0
+R9
+Z45 n@controller_vlg_sample_tst
+vController_vlg_vec_tst
+!i10b 1
+Z46 !s100 I3oEK_EH06^oaSF1JLB]M3
+Z47 IJ?VLmnHYa^^f@ekb2R@<P3
+Z48 V5IY6i8YWliG4bJHQGBS_f0
+R3
+R38
+R16
+R17
+Z49 L0 316
+R7
+r1
+!s85 0
+31
+R39
+R40
+R20
+!s101 -O0
+R9
+Z50 n@controller_vlg_vec_tst
+vDiceGame_controller
+Z51 !s100 aEogG@EPFoNM3C7D=k3dQ0
+Z52 I7i[zaJi=gY83]Yol<8nNB2
+Z53 V;^I<oBURed:5C=dl[P1a]2
+R3
+Z54 w1451047451
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z55 n@dice@game_controller
+Z56 !s108 1451047454.696000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vDiceGame_controller_vlg_check_tst
+Z57 !s100 fN@<zago6z<aijnd=1bgE1
+Z58 IdO9E@N<eCVH;P[IT>c1J43
+Z59 VM_<XE_1ojm=BS>FDHL3gc1
+R3
+Z60 w1451047450
+R16
+R17
+L0 63
+R7
+r1
+31
+Z61 !s108 1451047454.839000
+R19
+R20
+R9
+Z62 n@dice@game_controller_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vDiceGame_controller_vlg_sample_tst
+Z63 !s100 zCL[oIo@:N6g2iVUQKVXF1
+Z64 IY1WL`CKaY;l4FGBEhE]lO2
+Z65 VgBkTPgHf=m^noEfmgg49T1
+R3
+R60
+R16
+R17
+L0 29
+R7
+r1
+31
+R61
+R19
+R20
+R9
+Z66 n@dice@game_controller_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vDiceGame_controller_vlg_vec_tst
+Z67 !s100 XZklfO:kMli?]8NMgMI=n0
+Z68 IU6O:SZ3=10V@HX9jCER_K0
+Z69 VHK@aenc=zOOm[1Sk:=lC21
+R3
+R60
+R16
+R17
+Z70 L0 212
+R7
+r1
+31
+R61
+R19
+R20
+R9
+Z71 n@dice@game_controller_vlg_vec_tst
+!i10b 1
+!s85 0
+!s101 -O0

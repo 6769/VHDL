@@ -4,10 +4,10 @@ K3
 cModel Technology
 Z0 dG:\Programe\FPGA\Lab_5\simulation\qsim
 vView
-Z1 I[BKbkFEmcQ3M1_HP`=lHE0
+Z1 IVNczRB7mLMWJ^XTEf_Yfe2
 Z2 VK3agd;GZXd^gkJ]3zCM?41
 Z3 dG:\Programe\FPGA\Lab_5\simulation\qsim
-Z4 w1450972133
+Z4 w1451388079
 Z5 8DiceGame.vo
 Z6 FDiceGame.vo
 L0 31
@@ -17,69 +17,149 @@ r1
 Z8 !s90 -work|work|DiceGame.vo|
 Z9 o-work work -O0
 Z10 n@view
-!i10b 1
-Z11 !s100 S;DWW;K`m[ZGb]S6g7ohO0
-!s85 0
-Z12 !s108 1450972136.221000
+Z11 !s100 WC<da;Tc`:Eb>JC?fnEkP2
+Z12 !s108 1451388081.961000
 Z13 !s107 DiceGame.vo|
-!s101 -O0
-vView_vlg_check_tst
 !i10b 1
-Z14 !s100 JY:jokjA`IB;>O69C=e^20
-Z15 ITLU4]l:9KK<Wh;J8Xokl51
-Z16 Vg<MN=DlgQi1Yj]fY4L6Y83
+!s85 0
+!s101 -O0
+vView2
+Z14 IbgeZbm7<FIV8m?Y_`SzH:0
+Z15 V4DW;HWRgNijCVB:j`Fl9S0
 R3
-Z17 w1450972132
-Z18 8DiceGame.vt
-Z19 FDiceGame.vt
+Z16 w1451906269
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z17 n@view2
+!i10b 1
+Z18 !s100 `eaKFQDQ@WHjc3TFM1^`[1
+!s85 0
+Z19 !s108 1451906273.164000
+R13
+!s101 -O0
+vView2_vlg_check_tst
+!i10b 1
+Z20 !s100 FbE92Ym7LhN]mC[fiUMRN1
+Z21 I=4bbTOWjgLHQ7DOn;mH:[1
+Z22 VYVW:R5CC0i=d:nEOSLjiX3
+R3
+Z23 w1451906267
+Z24 8DiceGame.vt
+Z25 FDiceGame.vt
 L0 61
 R7
 r1
 !s85 0
 31
-Z20 !s108 1450972136.621000
-Z21 !s107 DiceGame.vt|
-Z22 !s90 -work|work|DiceGame.vt|
+Z26 !s108 1451906273.634000
+Z27 !s107 DiceGame.vt|
+Z28 !s90 -work|work|DiceGame.vt|
 !s101 -O0
 R9
-Z23 n@view_vlg_check_tst
-vView_vlg_sample_tst
+Z29 n@view2_vlg_check_tst
+vView2_vlg_sample_tst
 !i10b 1
-Z24 !s100 Ko?4;@27XG9a3S2K1dKUa3
-Z25 If:khN2HHkUe^^@6bCoXBY2
-Z26 VVT]Czf<b[NmDgDA>=;;4`2
+Z30 !s100 dYoFOkXof]2RET9O>>Pfd2
+Z31 If3_WemW220:73Z>dLWQPG3
+Z32 Vk8Dmzckb<E@b27`?1JM8=3
 R3
-R17
-R18
-R19
+R23
+R24
+R25
 L0 29
 R7
 r1
 !s85 0
 31
-R20
-R21
-R22
+R26
+R27
+R28
 !s101 -O0
 R9
-Z27 n@view_vlg_sample_tst
-vView_vlg_vec_tst
+Z33 n@view2_vlg_sample_tst
+vView2_vlg_vec_tst
 !i10b 1
-Z28 !s100 T`S;2g3gTlCC4EJof;8?12
-Z29 IW9^<=>maZBiWRQbW[=jbS3
-Z30 VG246GV3l4gdo[Nkj_Vg1f0
+!s100 Tz8a6GBT]KBO7IYgH[M^V1
+IdUlJ9Kg_l;:TD;kS9gLEi3
+Z34 VaN6J><elBhKBfUjF01?BW1
 R3
-R17
-R18
-R19
-Z31 L0 487
+R23
+R24
+R25
+Z35 L0 487
 R7
 r1
 !s85 0
 31
-R20
-R21
-R22
+R26
+R27
+R28
 !s101 -O0
 R9
-Z32 n@view_vlg_vec_tst
+Z36 n@view2_vlg_vec_tst
+vView_vlg_check_tst
+Z37 !s100 JY:jokjA`IB;>O69C=e^20
+Z38 ITLU4]l:9KK<Wh;J8Xokl51
+Z39 Vg<MN=DlgQi1Yj]fY4L6Y83
+R3
+Z40 w1451388078
+R24
+R25
+L0 61
+R7
+r1
+31
+Z41 !s108 1451388082.391000
+Z42 !s107 DiceGame.vt|
+R28
+R9
+Z43 n@view_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vView_vlg_sample_tst
+Z44 !s100 Ko?4;@27XG9a3S2K1dKUa3
+Z45 If:khN2HHkUe^^@6bCoXBY2
+Z46 VVT]Czf<b[NmDgDA>=;;4`2
+R3
+R40
+R24
+R25
+L0 29
+R7
+r1
+31
+R41
+R42
+R28
+R9
+Z47 n@view_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vView_vlg_vec_tst
+Z48 !s100 k0YmZ>M0<b4mz5<X0Dmn51
+Z49 Ib90l@kbWGYEgB8P]>UON_1
+Z50 VG246GV3l4gdo[Nkj_Vg1f0
+R3
+R40
+R24
+R25
+R35
+R7
+r1
+31
+R41
+R42
+R28
+R9
+Z51 n@view_vlg_vec_tst
+!i10b 1
+!s85 0
+!s101 -O0

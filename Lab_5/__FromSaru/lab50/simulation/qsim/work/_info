@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\_FromSaru\lab50\simulation\qsim
+vlab50
+Z1 !s100 WlaoJPf@@YMUe?a4BBmg>2
+Z2 ID_gVFM6FRgEUaLVbcf[E41
+Z3 V9BmFnE4`lO?G4YOV]N]Yl2
+Z4 dG:\Programe\FPGA\Lab_5\_FromSaru\lab50\simulation\qsim
+Z5 w1451917277
+Z6 8lab50.vo
+Z7 Flab50.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab50.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1451917281.069000
+Z12 !s107 lab50.vo|
+!s101 -O0
+vlab50_vlg_check_tst
+!i10b 1
+Z13 !s100 a::D5EQUX6DoMGNeWFOJQ3
+Z14 IV`miTTdn^CKG2^`oa2CT80
+Z15 VIDK3i0am`56h0aFRM;7W`1
+R4
+Z16 w1451917275
+Z17 8lab50.vt
+Z18 Flab50.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z19 !s108 1451917281.270000
+Z20 !s107 lab50.vt|
+Z21 !s90 -work|work|lab50.vt|
+!s101 -O0
+R10
+vlab50_vlg_sample_tst
+!i10b 1
+Z22 !s100 ;=ji2e>lZafSSNRKoHd9j3
+Z23 IDCgljbQV7zgR:h32b>F0j3
+Z24 VOilgVzCF:k3k=gB`6hEBC1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vlab50_vlg_vec_tst
+!i10b 1
+Z25 !s100 @KKR=TgL<6hHZUTHOlUTm0
+Z26 IH?3jQF@SWP^W7D7n8DFA91
+Z27 Vkc^ON0eBVimKAZnQ;Bk4=2
+R4
+R16
+R17
+R18
+Z28 L0 489
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

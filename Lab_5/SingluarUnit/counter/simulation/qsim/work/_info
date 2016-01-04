@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_5\SingluarUnit\counter\simulation\qsim
+vRoll_Sum
+Z1 I]LEh>Qho4:8aIbHlKRP^83
+Z2 VF@@`FI^fDD473kUPH3?;N3
+Z3 dG:\Programe\FPGA\Lab_5\SingluarUnit\counter\simulation\qsim
+Z4 w1451386883
+Z5 8counter.vo
+Z6 Fcounter.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|counter.vo|
+Z9 o-work work -O0
+Z10 n@roll_@sum
+!i10b 1
+Z11 !s100 @ebz]DYX9>P_^RY6<8ZNG3
+!s85 0
+Z12 !s108 1451386886.194000
+Z13 !s107 counter.vo|
+!s101 -O0
+vRoll_Sum_vlg_check_tst
+!i10b 1
+Z14 !s100 JJ`d]dA1l?bO=IJ2HlS052
+Z15 IoIKPmm56UN^T>^?VldUG32
+Z16 VNjcj7Q2^0b[9lgLQ347jL2
+R3
+Z17 w1451386882
+Z18 8counter.vt
+Z19 Fcounter.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1451386886.594000
+Z21 !s107 counter.vt|
+Z22 !s90 -work|work|counter.vt|
+!s101 -O0
+R9
+Z23 n@roll_@sum_vlg_check_tst
+vRoll_Sum_vlg_sample_tst
+!i10b 1
+Z24 !s100 5i3fk`R<;cJK93jNHl7Aj2
+Z25 Iej57mM=Tfj]1RAPW^ED^_0
+Z26 VU5m=lk1ghTU7_PT=h0SS;1
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@roll_@sum_vlg_sample_tst
+vRoll_Sum_vlg_vec_tst
+!i10b 1
+Z28 !s100 2k9kVTg6A:1;I@HP?_Sd>1
+Z29 I09O2ZgcKL`R>T5^VGVe3j2
+Z30 VV8eQ1_2]A9b3gHb@Q7gHe2
+R3
+R17
+R18
+R19
+Z31 L0 333
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@roll_@sum_vlg_vec_tst
