@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Programe\FPGA\Lab_6\UnitSingular\Control\simulation\qsim
+vControl_unit
+Z1 !s100 KQAEKa1Yoj=RGR00T6>oO0
+Z2 IaUQf;>@;zJ3W1D=[3;<V=2
+Z3 V^T2UbV_UVczd_5zi;4_an3
+Z4 dG:\Programe\FPGA\Lab_6\UnitSingular\Control\simulation\qsim
+Z5 w1452320818
+Z6 8control.vo
+Z7 Fcontrol.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|control.vo|
+Z10 o-work work -O0
+Z11 n@control_unit
+!i10b 1
+!s85 0
+Z12 !s108 1452320821.301000
+Z13 !s107 control.vo|
+!s101 -O0
+vControl_unit_vlg_check_tst
+!i10b 1
+Z14 !s100 G_=``IC@7z?le^0MSQBak3
+Z15 I>d_ZKT0EPK3Z<Q==0HoIC1
+Z16 VE6`3;RQg1^VmMc6O66Yof1
+R4
+Z17 w1452320817
+Z18 8control.vt
+Z19 Fcontrol.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z20 !s108 1452320821.531000
+Z21 !s107 control.vt|
+Z22 !s90 -work|work|control.vt|
+!s101 -O0
+R10
+Z23 n@control_unit_vlg_check_tst
+vControl_unit_vlg_sample_tst
+!i10b 1
+Z24 !s100 5WVShIj]Vf5SF3=T>YgI?3
+Z25 IFfAcomM2?3dPHNG8:KU``0
+Z26 VPKY88AX0zhJENT?n[lFBe3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@control_unit_vlg_sample_tst
+vControl_unit_vlg_vec_tst
+!i10b 1
+Z28 !s100 Sod=XaKkL`?bD]1_J1aJC0
+Z29 IjP1@E>7MfJDhb`BLS?@FG3
+Z30 Vcdf?fiHI<ek7=Cj?j8V3M3
+R4
+R17
+R18
+R19
+Z31 L0 651
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@control_unit_vlg_vec_tst

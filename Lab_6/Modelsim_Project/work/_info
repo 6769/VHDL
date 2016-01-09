@@ -1,0 +1,214 @@
+m255
+K3
+13
+cModel Technology
+dH:\altera\13.0sp1
+Eaddsub
+Z0 w1451984627
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dG:\Programe\FPGA\Lab_6\Modelsim_Project
+Z6 8G:\Programe\FPGA\Lab_6\Modelsim_Project\Addsub.vhd
+Z7 FG:\Programe\FPGA\Lab_6\Modelsim_Project\Addsub.vhd
+l0
+L5
+VN5]?@kmf6b_kgiH@TYG`e2
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1451984860.088000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_6\Modelsim_Project\Addsub.vhd|
+Z11 !s107 G:\Programe\FPGA\Lab_6\Modelsim_Project\Addsub.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 Aa@A5Z1V0nQfK<aH>81zD0
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 6 addsub 0 22 N5]?@kmf6b_kgiH@TYG`e2
+l16
+L14
+VlKmHlU;D9]bbA1<?::[nf0
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 TgK[4Dl<g44`TJbfB1G_W3
+!i10b 1
+Edec3to8
+Z14 w1451971873
+R3
+R4
+R5
+Z15 8G:\Programe\FPGA\Lab_6\Modelsim_Project\dec3to8.vhd
+Z16 FG:\Programe\FPGA\Lab_6\Modelsim_Project\dec3to8.vhd
+l0
+L3
+V6Wa]LUT04QPZMM2<YiVSR2
+R8
+32
+Z17 !s108 1451984863.258000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_6\Modelsim_Project\dec3to8.vhd|
+Z19 !s107 G:\Programe\FPGA\Lab_6\Modelsim_Project\dec3to8.vhd|
+R12
+R13
+!s100 ]T?dc2_mQmndRB12e<YRS2
+!i10b 1
+Abehavior
+R3
+R4
+DEx4 work 7 dec3to8 0 22 6Wa]LUT04QPZMM2<YiVSR2
+l12
+L11
+V^cjC4DV_D8a=8`T:;HFzZ1
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 Lg@<ZZKP@RnzdSaGCY;6V0
+!i10b 1
+Emultiplexers
+Z20 w1451985902
+R1
+R2
+R3
+R4
+R5
+Z21 8G:\Programe\FPGA\Lab_6\Modelsim_Project\multiplexers.vhd
+Z22 FG:\Programe\FPGA\Lab_6\Modelsim_Project\multiplexers.vhd
+l0
+L6
+VlERcaZK;IY6IQ4JgX=Q_O2
+R8
+32
+Z23 !s108 1451992345.831000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_6\Modelsim_Project\multiplexers.vhd|
+Z25 !s107 G:\Programe\FPGA\Lab_6\Modelsim_Project\multiplexers.vhd|
+R12
+R13
+!s100 CEG[h1Ja5ehLJc<c`A_R41
+!i10b 1
+Achoice
+R1
+R2
+R3
+R4
+DEx4 work 12 multiplexers 0 22 lERcaZK;IY6IQ4JgX=Q_O2
+l26
+L24
+ViP7^8ajSI675IdngmZ2GD1
+!s100 :b`IS?_M4f@PY1=I5bfi]0
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!i10b 1
+Eproc
+w1451989911
+Z26 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+R4
+R5
+8G:\Programe\FPGA\Lab_6\Modelsim_Project\proc.vhd
+FG:\Programe\FPGA\Lab_6\Modelsim_Project\proc.vhd
+l0
+L6
+Vi4WO^4zE_<icZMHe^O_iR2
+!s100 T2o1FkFQ_eMiVXXSc2SWm3
+R8
+32
+!i10b 1
+!s108 1451992350.931000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_6\Modelsim_Project\proc.vhd|
+!s107 G:\Programe\FPGA\Lab_6\Modelsim_Project\proc.vhd|
+R12
+R13
+Eregn
+Z27 w1451966837
+R3
+R4
+R5
+Z28 8G:\Programe\FPGA\Lab_6\Modelsim_Project\regn.vhd
+Z29 FG:\Programe\FPGA\Lab_6\Modelsim_Project\regn.vhd
+l0
+L4
+V^nH3Qh;lJ0>oln]`SPgFX0
+R8
+32
+Z30 !s108 1451970672.049000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_6\Modelsim_Project\regn.vhd|
+Z32 !s107 G:\Programe\FPGA\Lab_6\Modelsim_Project\regn.vhd|
+R12
+R13
+!s100 ijl2oB]1@4jfW5L?ZC`[o2
+!i10b 1
+Abehavior
+R3
+R4
+DEx4 work 4 regn 0 22 ^nH3Qh;lJ0>oln]`SPgFX0
+l13
+L12
+V0A3]gPl6U^G:5<dLER<zm1
+R8
+32
+R30
+R31
+R32
+R12
+R13
+!s100 0<?boozS9OboEA@UbP]nK0
+!i10b 1
+Eupcount
+Z33 w1451972382
+R1
+R2
+R3
+R4
+R5
+Z34 8G:\Programe\FPGA\Lab_6\Modelsim_Project\upcount.vhd
+Z35 FG:\Programe\FPGA\Lab_6\Modelsim_Project\upcount.vhd
+l0
+L5
+VMgAS@6AE@mGF8Zhj^UBTz2
+R8
+32
+Z36 !s108 1451984870.512000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:\Programe\FPGA\Lab_6\Modelsim_Project\upcount.vhd|
+Z38 !s107 G:\Programe\FPGA\Lab_6\Modelsim_Project\upcount.vhd|
+R12
+R13
+!s100 BAiHW?HbNn7aIkKoP;n9O0
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 7 upcount 0 22 MgAS@6AE@mGF8Zhj^UBTz2
+l14
+L12
+VmUZgePBM^BE<?P^h8nih]1
+R8
+32
+R36
+R37
+R38
+R12
+R13
+!s100 nJVHVncQcgfS9]H:KN8g]1
+!i10b 1

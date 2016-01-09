@@ -1,4 +1,0 @@
-12AC 7 (7 Hex bytes follow)
-AE 03 B6 91 C7 00 0C 
-005B 2 (2 hex bytes follow)
-01 FC 
